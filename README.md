@@ -200,15 +200,3 @@ This project demonstrates:
 
 Built to showcase real-world AI engineering with a focus on clarity, modularity, and practical business value.
 
-
----
-If you want, I can also generate:
-
-✅ A project banner image  
-✅ Flow diagrams (PNG/SVG)  
-✅ Example screenshots  
-✅ Example output JSON  
-✅ Architecture diagram for the README  
-
-Just tell me!
----
