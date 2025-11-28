@@ -1,3 +1,15 @@
+# 📊 Marketing Analytics Agent
+**AI-Driven Marketing Insights, Predictive Modeling & Automated PDF Reporting**
+
+This project is a complete agentic AI system that analyzes marketing datasets, extracts insights, runs predictive modeling, and generates a beautifully styled PDF report.  
+It demonstrates a production-ready architecture built with modern AI frameworks, data pipelines, and workflow automation.
+
+---
+
+## 🚀 Features
+
+### **🔹 1. Agentic Workflow (LangGraph)**
+The system uses **LangGraph** to orchestrate the entire pipeline:
 Each step is a “node” that updates a shared `PipelineState` object.This architecture makes the system:
 
 - modular
