@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <style>
+        body {
+            font-family: "Inter", sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #1e1e1e;
+            background: #f6f8fa;
+        }
+
+        h1, h2, h3 {
+            margin: 0;
+            font-weight: 600;
+        }
+
+        /* COVER PAGE */
+        .cover {
+            height: 100vh;
+            background: linear-gradient(145deg, #0f62fe, #0353e9);
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 60px;
+        }
+        .cover-title {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        .cover-sub {
+            font-size: 20px;
+            opacity: 0.85;
+        }
+
+        /* SECTION */
+        .section {
+            padding: 40px 50px;
+        }
+
+        .section-title {
+            font-size: 26px;
+            margin-bottom: 20px;
+            border-left: 6px solid #0f62fe;
+            padding-left: 12px;
+        }
+
+        /* KPI CARDS */
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+        .kpi-card {
+            background: white;
+            border-radius: 14px;
+            padding: 20px;
+            box-shadow: 0 6px 18px rgba(0,0,0,0.07);
+            text-align: center;
+        }
+        .kpi-label {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 8px;
+        }
+        .kpi-value {
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        /* CARDS */
+        .card {
+            background: white;
+            border-radius: 14px;
+            padding: 24px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+            margin-bottom: 25px;
+            line-height: 1.55;
+        }
+
+        /* Bullet points */
+        ul {
+            padding-left: 20px;
+            margin-top: 6px;
+        }
+
+        /* ACTION PLAN TABLE */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 14px;
+        }
+        th {
+            background: #0f62fe;
+            color: white;
+            padding: 10px;
+            text-align: left;
+            font-size: 14px;
+        }
+        td {
+            background: white;
+            padding: 10px;
+            border-bottom: 1px solid #e8e8e8;
+            font-size: 14px;
+        }
+
+        /* CHART GRID */
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 22px;
+        }
+        .chart-card {
+            background: white;
+            padding: 20px;
+            border-radius: 14px;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.07);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- COVER PAGE -->
+    <div class="cover">
+        <div class="cover-title">Marketing Analytics Report</div>
+        <div class="cover-sub">Generated automatically by your AI Marketing Engine</div>
+    </div>
+
+    <!-- KPI SECTION -->
+    <div class="section">
+        <div class="section-title">Key Metrics</div>
+
+        <div class="kpi-grid">
+            {% for k, v in kpis.items() %}
+            <div class="kpi-card">
+                <div class="kpi-label">{{ k.replace("_", " ").upper() }}</div>
+                <div class="kpi-value">{{ "%.2f"|format(v) }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- INSIGHTS SECTION -->
+    <div class="section">
+        <div class="section-title">Insights</div>
+        <div class="card">
+            {{ insights | safe }}
+        </div>
+    </div>
+
+    <!-- ACTION PLAN -->
+    <div class="section">
+        <div class="section-title">Action Plan</div>
+        <div class="card">
+            {{ plan | safe }}
+        </div>
+    </div>
+
+    <!-- CHARTS -->
+    <div class="section">
+        <div class="section-title">Visualizations</div>
+        <div class="chart-grid">
+            {% for chart in charts %}
+            <div class="chart-card">
+                <img src="{{ chart }}" style="width:100%; border-radius:10px;">
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</body>
+</html>

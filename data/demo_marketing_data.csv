@@ -1,0 +1,1001 @@
+date,channel,campaign,device,geo,impressions,clicks,spend,conversions,revenue
+2025-07-14,Google,Retargeting,mobile,Australia,40697,4634,26156.54,544,74052.93
+2025-09-22,Meta,Retargeting,desktop,Canada,33921,1491,13426.47,221,22107.86
+2025-10-30,Organic,Sale Promo,desktop,USA,20236,2384,22239.13,74,2184.09
+2025-07-13,Google,Brand Search,mobile,UK,17301,1811,9703.63,195,17201.71
+2025-06-14,Google,Video Awareness,mobile,Canada,18296,741,4781.31,59,4415.27
+2025-07-20,Referral,Retargeting,desktop,India,34164,6794,40640.74,927,35737.52
+2025-08-09,Organic,Brand Search,desktop,USA,19628,651,5454.14,72,7935.03
+2025-06-25,Google,Cold Prospecting,desktop,Canada,48470,3024,8708.53,573,52123.8
+2025-06-01,Referral,Retargeting,desktop,Canada,10672,1985,6452.4,366,18563.84
+2025-10-07,Email,Brand Search,desktop,USA,30572,5382,19210.12,178,3794.33
+2025-10-07,Meta,Sale Promo,mobile,Australia,25758,512,4478.31,44,2865.96
+2025-11-08,Google,Brand Search,mobile,Australia,41584,7231,27855.56,1235,51092.53
+2025-07-30,Referral,Email Blast,desktop,UK,4198,472,4353.87,80,6594.44
+2025-11-21,YouTube,Cold Prospecting,mobile,USA,48194,2814,8911.78,94,11390.0
+2025-11-13,YouTube,Sale Promo,mobile,UK,11809,844,8405.47,13,1476.58
+2025-11-12,YouTube,Cold Prospecting,desktop,Australia,40663,7187,53734.37,398,45849.69
+2025-10-12,YouTube,Sale Promo,desktop,USA,27072,5052,43241.22,645,50266.68
+2025-09-29,Meta,Video Awareness,mobile,Canada,16821,253,837.8,3,285.23
+2025-07-26,YouTube,Video Awareness,mobile,Australia,43842,1355,13011.97,49,3250.93
+2025-10-01,Meta,Cold Prospecting,mobile,Canada,40142,7045,46466.8,411,48005.82
+2025-11-20,Referral,Video Awareness,mobile,USA,1765,69,313.51,13,1421.18
+2025-08-22,Referral,Email Blast,desktop,USA,28495,4429,11842.37,640,63542.67
+2025-10-02,Meta,Sale Promo,desktop,USA,38934,4711,27832.28,216,24738.74
+2025-05-12,Email,Sale Promo,mobile,USA,10085,1509,11449.38,46,6052.77
+2025-08-14,Google,Video Awareness,desktop,UK,42972,7013,43072.69,300,34231.76
+2025-08-09,Referral,Email Blast,desktop,UK,15046,1617,11928.5,132,7980.72
+2025-09-26,Meta,Video Awareness,mobile,UK,15593,792,5232.85,30,779.06
+2025-10-01,Meta,Retargeting,mobile,Australia,9291,136,1030.34,18,446.63
+2025-07-14,Referral,Video Awareness,mobile,USA,37971,6263,28418.03,908,83931.53
+2025-05-18,Referral,Email Blast,desktop,Australia,23722,673,3319.65,109,4294.63
+2025-06-04,Google,Email Blast,mobile,India,9527,1774,6683.58,344,20852.91
+2025-08-09,Referral,Retargeting,mobile,Australia,12254,656,3544.48,100,9993.56
+2025-09-28,YouTube,Cold Prospecting,desktop,Australia,27374,2412,7056.3,291,8707.58
+2025-10-17,YouTube,Retargeting,mobile,Canada,15246,1768,16105.89,80,6856.66
+2025-05-14,YouTube,Cold Prospecting,mobile,Canada,10599,924,5737.1,107,12150.22
+2025-08-30,Referral,Retargeting,desktop,UK,33190,4440,36830.4,306,44577.84
+2025-08-01,YouTube,Sale Promo,mobile,Canada,42633,2630,18398.73,431,58142.87
+2025-08-01,Email,Email Blast,desktop,Australia,34032,2938,16765.0,128,8224.58
+2025-08-12,Referral,Cold Prospecting,mobile,USA,1505,97,933.42,11,803.41
+2025-05-19,Meta,Video Awareness,mobile,Australia,7081,134,423.95,4,575.93
+2025-07-16,YouTube,Video Awareness,mobile,India,11363,938,7792.1,116,9599.23
+2025-08-06,Organic,Sale Promo,mobile,UK,1846,125,283.47,12,1374.14
+2025-10-20,Google,Video Awareness,mobile,Canada,26825,1371,4972.46,88,6659.81
+2025-10-25,YouTube,Sale Promo,desktop,Canada,3422,489,3285.5,74,6936.07
+2025-09-15,Referral,Video Awareness,desktop,India,3497,218,1535.97,22,757.99
+2025-06-26,Email,Sale Promo,desktop,UK,18025,3421,10999.01,625,74886.08
+2025-09-01,Referral,Cold Prospecting,desktop,Canada,35857,898,7999.84,172,20985.74
+2025-10-16,Meta,Cold Prospecting,desktop,UK,12555,557,1694.59,90,13165.49
+2025-09-29,Google,Cold Prospecting,mobile,UK,40354,5722,43322.75,531,24307.19
+2025-06-18,YouTube,Brand Search,mobile,Canada,48303,8325,73450.02,1208,168710.83
+2025-07-15,Referral,Video Awareness,desktop,USA,23044,3556,11461.7,284,17558.54
+2025-07-13,Google,Video Awareness,mobile,UK,10903,829,6249.77,119,14267.67
+2025-07-15,Referral,Brand Search,desktop,India,40338,3690,34643.98,70,5084.03
+2025-06-14,Google,Brand Search,mobile,India,8869,735,7087.42,89,7389.23
+2025-05-27,Referral,Sale Promo,desktop,USA,45340,5588,54016.73,952,104225.03
+2025-08-24,Organic,Retargeting,desktop,Canada,1481,33,202.3,4,218.83
+2025-05-30,Email,Cold Prospecting,desktop,India,18190,490,4649.92,18,931.57
+2025-08-17,Email,Sale Promo,desktop,Australia,39923,1899,11959.05,106,11374.62
+2025-05-11,Organic,Brand Search,desktop,Canada,7178,912,8143.93,29,3505.55
+2025-09-27,Organic,Sale Promo,desktop,UK,20773,1471,8715.45,46,6475.24
+2025-10-26,YouTube,Email Blast,desktop,UK,12125,2374,14802.17,111,16026.83
+2025-07-28,Email,Brand Search,mobile,Canada,17327,1277,4302.77,221,22205.99
+2025-10-01,YouTube,Brand Search,desktop,India,11980,400,1704.15,5,736.82
+2025-10-22,Organic,Brand Search,desktop,Australia,37285,6675,27689.46,257,7224.42
+2025-08-12,Organic,Sale Promo,mobile,Australia,13782,1224,10967.75,137,11189.29
+2025-11-18,Organic,Email Blast,mobile,Australia,42503,1905,14921.26,372,54711.73
+2025-07-03,Referral,Cold Prospecting,mobile,Australia,9144,1368,10458.99,102,3224.78
+2025-08-07,Organic,Sale Promo,desktop,Canada,17952,3279,24886.89,72,3392.08
+2025-11-16,Referral,Cold Prospecting,desktop,Australia,3519,56,397.19,5,652.26
+2025-09-27,Google,Sale Promo,desktop,India,21560,3679,35669.84,667,69652.89
+2025-05-19,Email,Cold Prospecting,mobile,UK,12744,306,804.3,45,5254.67
+2025-07-27,Google,Cold Prospecting,desktop,Australia,18594,1923,15714.33,235,20252.32
+2025-10-04,Organic,Brand Search,mobile,UK,3663,664,4774.35,61,4065.8
+2025-06-09,Email,Cold Prospecting,mobile,Canada,2028,30,146.0,0,0.0
+2025-05-26,Referral,Retargeting,mobile,USA,2626,362,2231.69,18,1437.95
+2025-05-15,Referral,Brand Search,desktop,UK,44288,1666,13381.35,160,13895.27
+2025-08-14,Meta,Retargeting,mobile,UK,43853,2897,6653.22,556,51289.19
+2025-06-21,Meta,Sale Promo,mobile,Canada,49898,4467,30941.68,208,17172.33
+2025-10-10,Referral,Cold Prospecting,desktop,USA,41080,1350,12855.66,70,8121.63
+2025-09-16,Email,Sale Promo,mobile,USA,4838,660,2154.56,118,4156.94
+2025-05-29,Meta,Email Blast,desktop,India,4713,176,857.13,15,1636.92
+2025-06-05,Organic,Video Awareness,mobile,USA,17454,1192,2781.55,75,10621.69
+2025-11-16,Google,Email Blast,desktop,Australia,2294,170,972.72,5,112.5
+2025-10-29,Email,Video Awareness,mobile,UK,4372,345,2861.69,46,4907.47
+2025-06-11,Meta,Sale Promo,desktop,India,32995,1176,10460.39,48,2327.43
+2025-05-29,Meta,Video Awareness,mobile,India,39609,1523,13774.54,261,5414.12
+2025-06-21,Meta,Video Awareness,desktop,India,37465,5459,42983.44,1027,87791.23
+2025-06-16,Organic,Video Awareness,desktop,UK,44802,4413,22906.04,874,38627.05
+2025-07-30,Google,Retargeting,desktop,Canada,14408,860,5645.75,74,5831.84
+2025-09-22,Referral,Sale Promo,desktop,Australia,18646,2329,7869.86,408,45314.81
+2025-07-09,YouTube,Email Blast,mobile,Australia,24218,3719,28799.8,662,78080.53
+2025-08-14,Organic,Email Blast,mobile,UK,40062,2424,21661.23,477,65644.09
+2025-05-18,YouTube,Video Awareness,mobile,Canada,32072,824,5976.28,22,2621.49
+2025-07-31,Meta,Video Awareness,desktop,UK,22155,3464,19740.11,481,11387.02
+2025-11-26,Google,Email Blast,desktop,India,16122,1145,7373.39,63,2801.45
+2025-06-09,Google,Sale Promo,desktop,Australia,8698,831,4746.11,150,4894.23
+2025-07-03,Google,Retargeting,mobile,Australia,30603,4130,12390.41,573,18287.23
+2025-08-02,Google,Retargeting,mobile,Australia,243,8,66.73,0,0.0
+2025-05-23,Email,Brand Search,mobile,India,42167,573,5123.05,76,4020.85
+2025-11-07,Google,Video Awareness,mobile,India,28561,3601,25068.88,554,55575.89
+2025-08-21,Meta,Video Awareness,desktop,UK,10801,530,4549.96,86,8720.32
+2025-08-07,Google,Video Awareness,desktop,Canada,254,25,137.57,3,342.31
+2025-07-04,Email,Retargeting,desktop,UK,49040,6477,34779.14,553,62509.77
+2025-10-05,Referral,Video Awareness,mobile,Canada,45510,4842,44915.62,869,50799.46
+2025-11-23,Email,Sale Promo,desktop,Australia,36882,3644,27516.35,418,11119.8
+2025-06-21,Referral,Sale Promo,desktop,Canada,12641,1594,8700.01,183,16298.87
+2025-09-11,Referral,Cold Prospecting,desktop,USA,11154,2221,21758.34,217,13097.37
+2025-09-24,Meta,Brand Search,desktop,USA,37058,886,6732.24,65,6792.17
+2025-07-11,Organic,Video Awareness,mobile,Australia,31450,633,1507.47,61,7721.8
+2025-09-11,Meta,Sale Promo,desktop,USA,2999,501,2210.07,22,2756.81
+2025-05-31,Google,Retargeting,desktop,Australia,30002,3094,22661.38,141,6818.98
+2025-07-17,Referral,Retargeting,desktop,UK,35098,3927,23636.11,216,10889.01
+2025-10-13,Meta,Brand Search,desktop,USA,3002,327,2873.84,61,6753.23
+2025-06-01,Organic,Video Awareness,desktop,UK,23790,2276,10651.18,238,6665.77
+2025-08-29,Meta,Cold Prospecting,mobile,Canada,22569,1671,4714.7,191,26765.03
+2025-05-30,Organic,Sale Promo,mobile,India,2152,396,3801.4,56,6548.4
+2025-09-28,Meta,Retargeting,desktop,Australia,10513,423,946.11,59,7767.34
+2025-07-12,Google,Email Blast,desktop,UK,22221,678,6673.63,21,3000.12
+2025-11-15,Email,Video Awareness,mobile,India,32265,5366,34546.63,624,67069.5
+2025-11-21,Organic,Brand Search,desktop,Australia,981,22,91.4,4,231.23
+2025-08-05,Google,Sale Promo,mobile,USA,34108,2586,16754.49,122,14871.11
+2025-07-16,Meta,Sale Promo,desktop,UK,29011,349,1583.47,34,2580.56
+2025-11-20,Referral,Email Blast,desktop,USA,23569,1504,9790.76,37,2530.65
+2025-08-20,Email,Email Blast,mobile,India,32470,2610,24289.41,285,8373.42
+2025-05-23,Organic,Retargeting,mobile,UK,45417,3165,27369.21,346,17385.46
+2025-06-02,Organic,Brand Search,mobile,USA,37361,2756,21997.01,34,929.3
+2025-06-29,YouTube,Cold Prospecting,mobile,India,39705,3074,18654.32,541,58031.83
+2025-10-16,Referral,Video Awareness,desktop,UK,39140,5986,12201.98,730,65162.14
+2025-05-27,YouTube,Video Awareness,mobile,UK,49695,502,3450.06,73,9511.26
+2025-10-09,Google,Brand Search,mobile,India,3459,446,1178.51,5,425.62
+2025-08-15,Referral,Brand Search,mobile,UK,15998,2591,22512.64,252,6571.2
+2025-05-26,YouTube,Email Blast,desktop,USA,46029,2346,5500.59,363,21205.84
+2025-06-13,Referral,Retargeting,mobile,Australia,49488,528,2209.5,12,1254.19
+2025-09-26,Organic,Video Awareness,mobile,Australia,14841,2564,23370.93,478,18166.38
+2025-08-29,Email,Retargeting,desktop,USA,48084,4880,43377.34,290,24575.69
+2025-10-20,Referral,Sale Promo,desktop,Canada,23750,506,2299.59,55,7775.87
+2025-10-01,Referral,Sale Promo,desktop,UK,28418,4734,36915.62,405,15291.94
+2025-10-05,YouTube,Video Awareness,desktop,Australia,14509,359,2489.02,22,2458.39
+2025-07-22,Organic,Sale Promo,mobile,Canada,29215,3788,36134.24,163,7511.84
+2025-07-13,Referral,Brand Search,desktop,UK,49404,706,3624.2,23,2285.32
+2025-10-31,Organic,Sale Promo,desktop,India,25165,1790,7601.46,60,5813.02
+2025-09-06,Google,Retargeting,mobile,UK,34264,4220,35912.62,238,11911.38
+2025-06-02,Organic,Brand Search,desktop,India,30492,751,6670.91,147,8437.5
+2025-07-31,Referral,Cold Prospecting,mobile,India,35469,768,5883.78,100,11308.3
+2025-10-08,Meta,Retargeting,mobile,Canada,48525,5989,40340.16,961,128944.2
+2025-06-04,Google,Sale Promo,mobile,USA,16225,1971,16000.23,190,19525.31
+2025-07-01,Organic,Video Awareness,mobile,USA,47928,2996,25445.73,233,18548.78
+2025-05-31,Email,Email Blast,desktop,Canada,33280,4818,30874.47,746,26954.65
+2025-06-05,Organic,Cold Prospecting,mobile,Australia,45076,4601,28468.09,391,26221.73
+2025-09-29,Organic,Cold Prospecting,desktop,Canada,21237,2259,13355.41,259,36054.51
+2025-08-05,Meta,Email Blast,mobile,UK,32317,921,3865.43,94,9857.17
+2025-11-25,Organic,Brand Search,desktop,UK,711,79,466.31,5,655.58
+2025-11-26,YouTube,Email Blast,desktop,India,22468,2921,13642.29,428,50224.7
+2025-10-10,YouTube,Cold Prospecting,desktop,UK,32034,2966,15291.43,63,8811.15
+2025-10-14,Email,Sale Promo,desktop,Canada,22380,3168,28442.76,277,16833.73
+2025-10-20,Meta,Email Blast,mobile,Canada,27462,912,6078.61,130,15892.17
+2025-06-13,Google,Cold Prospecting,desktop,Australia,2630,194,1028.12,4,421.9
+2025-06-23,Google,Cold Prospecting,mobile,UK,45270,7257,67412.67,562,57426.1
+2025-11-25,Meta,Video Awareness,desktop,USA,27594,5394,25931.76,1021,90868.54
+2025-05-20,Organic,Brand Search,desktop,India,37480,2235,6421.01,390,54894.67
+2025-08-20,Google,Email Blast,mobile,India,48811,9382,61821.28,1262,73073.14
+2025-10-27,Email,Video Awareness,desktop,India,23631,1819,7754.61,245,35928.74
+2025-06-02,Email,Email Blast,mobile,Australia,14613,1683,7778.35,94,3704.21
+2025-10-06,Meta,Sale Promo,mobile,USA,7619,1018,3815.62,111,12304.37
+2025-10-28,Meta,Video Awareness,desktop,India,31170,4205,19011.44,600,50889.47
+2025-08-20,Organic,Brand Search,desktop,Canada,26759,4073,37648.71,577,33171.85
+2025-08-14,Google,Retargeting,mobile,India,21664,2054,15637.29,24,3367.67
+2025-10-21,Email,Sale Promo,desktop,Australia,28298,2410,11871.82,470,11199.25
+2025-07-19,Organic,Retargeting,desktop,UK,41124,2551,25372.27,255,14607.62
+2025-07-16,Meta,Video Awareness,desktop,UK,19034,3558,14084.23,218,23306.29
+2025-05-14,Referral,Sale Promo,desktop,Canada,33871,2581,16148.85,91,3649.26
+2025-07-14,YouTube,Cold Prospecting,mobile,USA,19048,3432,19353.71,45,2520.69
+2025-11-02,Meta,Email Blast,desktop,India,45373,2275,5788.44,223,15406.41
+2025-07-19,Organic,Video Awareness,mobile,Australia,35395,4596,43259.2,378,34327.03
+2025-07-20,Meta,Video Awareness,desktop,USA,38879,2318,4971.06,373,54921.53
+2025-06-22,Referral,Sale Promo,mobile,Canada,7521,527,3059.86,37,1434.9
+2025-07-23,Email,Cold Prospecting,mobile,Australia,31462,3902,33340.86,680,69217.14
+2025-06-09,Google,Retargeting,mobile,USA,40980,1181,5195.31,150,16780.39
+2025-06-24,Google,Brand Search,mobile,UK,21493,3201,7582.42,116,14286.82
+2025-06-07,YouTube,Video Awareness,mobile,Australia,38925,5442,42407.12,328,9529.49
+2025-08-20,Referral,Cold Prospecting,mobile,India,45896,7613,33522.25,1512,35003.34
+2025-06-26,Referral,Video Awareness,desktop,Australia,44623,6037,16696.3,209,16866.02
+2025-06-16,Referral,Video Awareness,desktop,UK,38602,738,5440.12,88,2676.92
+2025-09-09,Meta,Sale Promo,desktop,Australia,23184,2135,19619.9,414,52604.13
+2025-06-11,Organic,Video Awareness,desktop,Canada,48693,2630,22176.08,90,2287.64
+2025-07-30,Referral,Email Blast,desktop,India,18341,1744,13867.68,211,11331.09
+2025-08-29,YouTube,Sale Promo,mobile,UK,39355,6634,60042.98,1087,55025.7
+2025-06-14,Google,Email Blast,mobile,UK,23236,1498,4155.67,54,7153.96
+2025-06-11,Email,Sale Promo,mobile,Canada,4424,837,2769.73,53,1156.9
+2025-07-25,YouTube,Cold Prospecting,mobile,UK,6732,1172,3816.34,226,17671.88
+2025-05-20,Organic,Brand Search,mobile,USA,48368,5600,50727.76,491,59191.23
+2025-06-25,Meta,Cold Prospecting,mobile,UK,215,38,295.73,1,71.5
+2025-07-07,YouTube,Retargeting,desktop,Canada,44054,5011,21835.91,583,69393.22
+2025-05-21,Organic,Retargeting,desktop,India,41722,615,5689.5,74,7076.74
+2025-11-18,YouTube,Video Awareness,desktop,Australia,28503,5629,16621.68,102,4989.41
+2025-10-15,Organic,Retargeting,mobile,India,34428,6158,58118.89,737,44062.65
+2025-07-09,Google,Sale Promo,desktop,UK,29840,720,4809.52,45,3327.38
+2025-07-09,YouTube,Retargeting,mobile,UK,6093,630,1418.46,105,10649.62
+2025-08-02,Meta,Email Blast,mobile,Canada,11887,624,1316.67,22,2072.37
+2025-05-24,Organic,Sale Promo,desktop,USA,48194,8774,57817.53,1670,70615.13
+2025-06-24,Meta,Cold Prospecting,mobile,India,41482,5077,50053.62,530,45778.3
+2025-05-28,YouTube,Sale Promo,mobile,Canada,40762,6617,56858.22,1295,143546.02
+2025-08-22,YouTube,Email Blast,mobile,USA,46854,2078,7452.01,70,5088.04
+2025-06-23,Google,Cold Prospecting,mobile,Australia,20512,642,6100.67,11,950.25
+2025-08-27,Meta,Email Blast,desktop,India,15075,2985,18663.06,246,27270.01
+2025-07-26,Email,Retargeting,mobile,USA,38342,466,3748.89,86,2869.14
+2025-06-13,Email,Sale Promo,desktop,Canada,15890,2212,16992.65,182,22526.2
+2025-10-25,Organic,Brand Search,desktop,USA,25701,3591,19488.72,161,24076.34
+2025-08-05,Referral,Retargeting,mobile,Canada,15027,1085,7403.29,45,1176.5
+2025-07-29,Meta,Retargeting,mobile,USA,13385,888,3653.34,131,16766.22
+2025-09-17,Referral,Cold Prospecting,mobile,Canada,24835,3415,27314.72,214,28185.99
+2025-07-18,Meta,Sale Promo,desktop,UK,48025,2163,8647.73,228,22736.92
+2025-06-16,Google,Video Awareness,mobile,USA,35709,6744,56891.13,877,78960.96
+2025-10-30,Google,Video Awareness,desktop,Australia,45627,572,5568.94,42,4280.7
+2025-11-10,Organic,Video Awareness,mobile,UK,42881,5874,32452.68,585,73535.06
+2025-08-20,Email,Brand Search,desktop,USA,46360,1886,14729.42,320,42801.48
+2025-08-22,Organic,Brand Search,desktop,UK,31210,2426,15417.29,86,2530.61
+2025-10-16,Referral,Cold Prospecting,mobile,India,37917,6092,53721.96,428,63926.69
+2025-11-14,Meta,Brand Search,mobile,Australia,2859,469,3938.39,26,988.22
+2025-10-16,Meta,Brand Search,desktop,USA,33759,4255,12613.05,158,12739.36
+2025-10-03,Google,Brand Search,desktop,Australia,8891,515,2721.6,86,8077.41
+2025-11-05,Referral,Sale Promo,mobile,India,3932,532,1289.75,58,3527.41
+2025-06-19,Google,Brand Search,mobile,UK,36986,1224,4702.93,234,9708.37
+2025-06-23,YouTube,Video Awareness,mobile,Australia,45051,2104,6052.33,322,44034.78
+2025-08-06,Referral,Cold Prospecting,mobile,USA,48756,546,4038.67,72,3378.02
+2025-09-25,Email,Retargeting,mobile,UK,5310,954,3892.4,106,13798.01
+2025-09-04,Google,Sale Promo,mobile,Australia,40586,4033,8425.16,687,29220.83
+2025-11-05,Organic,Sale Promo,desktop,India,44508,6628,20976.77,738,82598.38
+2025-05-27,Email,Video Awareness,desktop,Canada,25214,1606,8082.08,260,13145.91
+2025-08-25,Organic,Sale Promo,mobile,UK,31854,2140,21094.36,369,30708.45
+2025-06-25,Meta,Video Awareness,desktop,India,19299,2568,18625.88,331,20790.04
+2025-07-09,YouTube,Video Awareness,desktop,USA,16452,236,933.99,23,1463.83
+2025-07-04,YouTube,Video Awareness,desktop,Australia,16510,2730,20581.74,437,50324.67
+2025-08-29,Referral,Brand Search,mobile,Canada,27100,2249,16104.98,280,30163.17
+2025-07-23,Meta,Retargeting,mobile,Australia,22015,676,4502.97,67,7383.93
+2025-07-26,Meta,Brand Search,desktop,Australia,23350,1155,5504.83,190,23682.24
+2025-07-11,Referral,Retargeting,desktop,Australia,2401,340,1835.83,24,1970.91
+2025-08-01,Meta,Video Awareness,mobile,USA,42450,4157,11359.53,530,52929.84
+2025-08-20,YouTube,Retargeting,desktop,Canada,6164,887,6673.5,114,13973.18
+2025-06-18,Meta,Sale Promo,desktop,UK,21645,4035,37422.82,538,30862.72
+2025-09-15,YouTube,Cold Prospecting,mobile,UK,39784,5747,38229.57,1028,136721.21
+2025-08-26,YouTube,Email Blast,desktop,Canada,32043,5221,25056.09,322,24609.68
+2025-08-09,Meta,Email Blast,desktop,Canada,6750,784,3915.89,39,1579.44
+2025-10-18,Referral,Retargeting,desktop,Canada,33408,5860,43508.47,587,19920.53
+2025-06-19,Referral,Brand Search,desktop,Canada,37375,2167,4764.59,214,27913.98
+2025-08-10,Email,Sale Promo,desktop,UK,12689,996,6130.47,186,7493.03
+2025-07-30,Google,Video Awareness,desktop,UK,9833,1803,12438.82,346,34998.81
+2025-06-02,Organic,Sale Promo,desktop,India,47582,987,2388.85,146,16162.58
+2025-08-24,Referral,Brand Search,mobile,UK,28200,4147,31024.18,829,106767.22
+2025-05-23,YouTube,Brand Search,desktop,India,9458,1394,7297.17,46,6660.34
+2025-11-21,YouTube,Video Awareness,desktop,Australia,42406,4965,30418.82,669,85106.2
+2025-08-19,Email,Brand Search,mobile,Australia,14862,348,1360.75,51,3148.77
+2025-06-22,Organic,Retargeting,mobile,USA,33346,2963,17411.46,210,10973.63
+2025-11-11,Google,Email Blast,desktop,Australia,13083,1772,8459.3,224,19793.42
+2025-08-20,Email,Email Blast,desktop,UK,45120,1699,14765.42,121,4667.6
+2025-06-29,Referral,Cold Prospecting,mobile,Canada,11982,1484,8098.53,93,3179.98
+2025-11-13,Meta,Sale Promo,desktop,India,32141,5097,33726.72,978,127161.66
+2025-06-18,Meta,Retargeting,mobile,Canada,48938,9726,54315.34,1576,57731.11
+2025-09-18,Meta,Email Blast,mobile,Australia,37960,5202,37138.42,593,70489.9
+2025-06-10,Organic,Brand Search,mobile,Canada,31210,5783,21175.28,194,5589.71
+2025-11-08,Organic,Retargeting,desktop,Australia,26032,2751,27282.52,454,66854.64
+2025-11-25,Organic,Retargeting,mobile,Australia,6188,1038,10138.3,152,19380.21
+2025-09-19,YouTube,Cold Prospecting,mobile,USA,41640,641,2866.24,25,1989.91
+2025-10-04,Meta,Brand Search,desktop,Australia,17430,1038,3692.52,130,9165.37
+2025-06-03,Google,Cold Prospecting,mobile,UK,4107,556,5092.5,37,2612.12
+2025-09-16,Email,Email Blast,desktop,Australia,17665,2594,9475.0,474,16551.81
+2025-11-16,Organic,Retargeting,mobile,Australia,48832,8471,82995.42,212,15369.32
+2025-10-17,Email,Brand Search,mobile,India,24355,3130,24284.94,93,4594.53
+2025-09-08,Meta,Brand Search,mobile,Canada,44548,7503,29896.31,330,37273.25
+2025-10-17,Meta,Cold Prospecting,desktop,UK,32458,586,4415.07,100,9291.91
+2025-06-18,Email,Sale Promo,mobile,Canada,36172,4898,35800.96,483,68469.88
+2025-09-15,Meta,Brand Search,desktop,USA,39324,3039,23075.57,381,16760.8
+2025-06-12,Google,Email Blast,mobile,Australia,3992,173,821.69,19,824.57
+2025-08-13,Email,Email Blast,mobile,USA,9030,1256,10745.75,136,19577.62
+2025-10-24,Organic,Sale Promo,desktop,Australia,4813,680,2930.88,107,3832.84
+2025-06-21,Organic,Video Awareness,mobile,USA,44978,8645,73071.17,1507,44056.27
+2025-10-10,Meta,Email Blast,desktop,UK,37361,4997,20936.24,395,9886.37
+2025-05-26,Referral,Retargeting,mobile,USA,29265,1996,12202.47,398,22740.02
+2025-11-10,Google,Cold Prospecting,mobile,USA,20303,2187,18018.12,266,27785.1
+2025-06-24,Organic,Brand Search,desktop,Australia,32289,5227,45995.99,344,35245.47
+2025-06-27,Organic,Video Awareness,desktop,Canada,1380,186,1560.97,37,1969.54
+2025-11-08,Meta,Brand Search,mobile,USA,17732,426,3523.31,61,3600.63
+2025-07-16,Referral,Video Awareness,desktop,India,28600,3902,36663.57,400,29414.46
+2025-09-22,Meta,Email Blast,mobile,India,46346,5289,37941.74,954,107002.12
+2025-05-30,Referral,Cold Prospecting,desktop,India,27632,4843,40721.15,924,100884.47
+2025-09-19,Meta,Retargeting,mobile,Canada,48357,581,4954.93,98,11631.43
+2025-07-22,Meta,Email Blast,desktop,India,1309,214,2050.11,3,384.22
+2025-10-05,Google,Brand Search,mobile,UK,36246,5011,28733.63,528,13418.49
+2025-09-22,Meta,Video Awareness,mobile,Canada,36270,6361,13363.81,1225,78418.16
+2025-08-25,Referral,Brand Search,desktop,Canada,38162,3761,25842.08,541,39103.27
+2025-09-19,Email,Email Blast,mobile,USA,35049,1065,7836.99,102,12748.08
+2025-06-25,YouTube,Cold Prospecting,mobile,USA,3147,496,3172.09,74,9987.38
+2025-09-29,Referral,Brand Search,desktop,Australia,31591,3978,10567.1,582,32491.02
+2025-05-18,Email,Email Blast,mobile,Australia,12822,401,3499.95,67,4215.11
+2025-05-18,Google,Brand Search,desktop,Canada,28883,3571,31870.73,101,10861.29
+2025-07-20,YouTube,Brand Search,mobile,Australia,46989,7525,49593.71,304,11306.2
+2025-09-21,Email,Email Blast,desktop,Australia,42408,4925,10247.56,381,10047.35
+2025-06-02,Meta,Cold Prospecting,mobile,India,23188,309,2860.18,22,2357.08
+2025-08-06,Google,Retargeting,desktop,USA,31820,5699,47666.57,172,23041.6
+2025-10-17,Google,Retargeting,desktop,Australia,16730,797,7116.98,62,5736.54
+2025-10-12,Meta,Sale Promo,desktop,Canada,36400,7277,28034.52,94,2472.46
+2025-11-15,YouTube,Retargeting,desktop,UK,18805,1500,12914.19,272,12328.9
+2025-06-03,Organic,Video Awareness,desktop,Canada,27637,1279,10673.37,38,4139.36
+2025-11-02,Referral,Retargeting,mobile,USA,34667,3022,8645.54,537,46760.72
+2025-09-28,YouTube,Brand Search,mobile,India,26826,3521,8959.52,145,7947.96
+2025-10-23,Google,Email Blast,desktop,USA,35425,2210,16437.76,227,18503.73
+2025-11-18,Organic,Brand Search,mobile,Canada,13161,788,4559.56,26,2954.99
+2025-10-18,Referral,Email Blast,mobile,Canada,29605,1528,6304.6,171,21045.27
+2025-06-03,Referral,Brand Search,desktop,Canada,6539,558,3806.48,88,9383.09
+2025-07-19,Google,Email Blast,mobile,Australia,6777,698,6413.15,65,6201.42
+2025-06-16,Google,Sale Promo,mobile,Canada,43288,5175,42022.76,745,103918.53
+2025-11-03,Meta,Cold Prospecting,desktop,UK,10331,1219,9446.83,34,4330.54
+2025-05-25,Meta,Video Awareness,desktop,USA,35388,6469,34360.65,264,18121.32
+2025-05-21,Email,Retargeting,desktop,USA,37014,3238,15165.45,248,12236.89
+2025-10-11,Email,Sale Promo,mobile,USA,4417,651,6434.01,80,10900.83
+2025-08-01,Referral,Retargeting,desktop,Canada,18731,1739,15304.43,213,31140.53
+2025-06-21,Google,Brand Search,mobile,Australia,32970,1674,9615.25,59,6925.84
+2025-07-18,Referral,Retargeting,mobile,UK,13979,312,1711.38,15,2086.95
+2025-08-20,YouTube,Sale Promo,desktop,USA,7342,81,496.93,9,441.65
+2025-05-19,Meta,Email Blast,desktop,Canada,42988,7115,16818.49,900,62341.63
+2025-09-20,YouTube,Retargeting,desktop,USA,1956,362,3291.53,22,637.51
+2025-08-08,Meta,Retargeting,mobile,USA,18093,867,5955.41,19,2474.98
+2025-08-02,Organic,Retargeting,mobile,Canada,35735,5312,19299.69,254,32321.78
+2025-10-20,Meta,Retargeting,mobile,UK,49761,6706,17162.69,117,6730.5
+2025-09-19,Google,Video Awareness,mobile,USA,45063,2017,15403.56,74,2325.46
+2025-05-30,Referral,Email Blast,mobile,Canada,21068,869,6718.15,155,3200.28
+2025-08-20,YouTube,Brand Search,desktop,USA,33160,4437,24662.45,469,29808.86
+2025-07-04,Google,Video Awareness,mobile,USA,47462,7429,31114.76,813,48023.83
+2025-08-20,YouTube,Email Blast,desktop,USA,35918,2382,12144.0,216,14164.57
+2025-08-11,Meta,Video Awareness,mobile,Australia,45444,4743,34953.42,54,3211.68
+2025-06-28,Email,Video Awareness,desktop,India,47881,1630,12047.29,293,18562.6
+2025-09-19,Email,Sale Promo,mobile,India,20460,348,2527.49,37,3496.41
+2025-05-29,Google,Video Awareness,desktop,Canada,46342,6371,45889.81,279,14420.31
+2025-08-21,Organic,Cold Prospecting,desktop,Canada,3469,479,1177.5,53,2040.68
+2025-06-22,Referral,Sale Promo,mobile,UK,18813,1832,5244.59,220,23546.72
+2025-08-26,YouTube,Retargeting,mobile,Canada,20371,2180,13123.02,166,7102.52
+2025-08-22,Organic,Sale Promo,mobile,Canada,4358,806,2813.07,22,3165.14
+2025-08-08,Referral,Email Blast,mobile,UK,45650,7645,27522.28,1488,131419.06
+2025-08-09,Organic,Sale Promo,desktop,UK,4880,63,193.78,3,184.47
+2025-09-28,Google,Email Blast,mobile,India,41407,7318,66585.45,1243,47464.79
+2025-08-13,YouTube,Video Awareness,mobile,Australia,6413,500,1236.26,92,13454.88
+2025-06-29,YouTube,Sale Promo,mobile,UK,49164,4978,13868.77,716,61033.71
+2025-07-24,Organic,Cold Prospecting,desktop,Canada,25051,2358,13725.75,188,4090.66
+2025-06-22,Google,Video Awareness,mobile,Australia,18565,1062,3000.08,19,947.3
+2025-07-11,Meta,Retargeting,mobile,Australia,5058,553,4208.57,88,5108.99
+2025-05-31,Email,Cold Prospecting,mobile,Canada,32081,1230,2625.94,232,14338.9
+2025-10-06,Organic,Sale Promo,mobile,India,40313,5314,28851.04,54,4168.6
+2025-07-27,Email,Sale Promo,mobile,USA,11532,1230,10297.25,100,9356.84
+2025-08-06,Google,Retargeting,desktop,India,21064,2155,15901.66,203,23616.43
+2025-11-13,YouTube,Retargeting,mobile,Canada,21537,3854,37999.03,142,4046.75
+2025-06-22,Email,Cold Prospecting,desktop,India,22745,1092,5881.48,57,1375.77
+2025-11-23,Meta,Brand Search,desktop,Canada,35630,1638,7200.46,180,7837.04
+2025-09-09,YouTube,Sale Promo,desktop,India,13460,2378,13605.97,271,17948.64
+2025-05-23,Email,Brand Search,mobile,USA,28477,3591,18061.8,643,70205.53
+2025-07-05,Organic,Video Awareness,desktop,India,31515,1161,5044.43,185,11843.22
+2025-08-16,Organic,Retargeting,mobile,USA,13739,440,1978.49,54,3423.95
+2025-11-02,Referral,Sale Promo,desktop,UK,17713,2591,25624.74,285,15740.8
+2025-07-20,YouTube,Sale Promo,desktop,UK,31526,5963,15096.61,708,64886.51
+2025-10-26,Email,Sale Promo,mobile,USA,48079,7123,30427.86,1115,116599.63
+2025-06-21,Email,Video Awareness,mobile,UK,6485,1178,3235.67,124,3061.06
+2025-05-26,Referral,Video Awareness,desktop,India,6203,130,1133.06,12,1618.44
+2025-07-08,Google,Sale Promo,desktop,Australia,1157,88,824.5,3,349.83
+2025-08-31,YouTube,Video Awareness,mobile,Canada,28018,4452,35356.23,472,63272.64
+2025-08-03,Google,Brand Search,desktop,Australia,29107,2354,14257.14,282,28923.6
+2025-08-17,Organic,Email Blast,desktop,UK,25891,2199,14862.46,367,25116.23
+2025-07-11,Email,Sale Promo,mobile,Canada,49268,8348,27614.45,1425,66924.89
+2025-05-31,Organic,Cold Prospecting,mobile,Australia,39105,2100,12098.34,28,2736.23
+2025-09-27,Google,Sale Promo,desktop,India,42658,5508,11524.03,1086,137156.98
+2025-11-25,Email,Sale Promo,mobile,Canada,44717,7844,32096.82,850,113967.85
+2025-10-20,Organic,Email Blast,desktop,UK,26653,4690,35094.51,212,11573.05
+2025-08-24,Email,Cold Prospecting,mobile,USA,14474,1662,6109.07,249,19740.59
+2025-06-05,Organic,Retargeting,desktop,USA,23134,461,4253.19,69,1502.84
+2025-10-25,Organic,Email Blast,mobile,India,49822,2001,5624.4,233,5839.32
+2025-06-15,Google,Email Blast,desktop,Australia,30687,3619,8180.49,550,73282.56
+2025-05-21,Referral,Retargeting,desktop,India,48528,4570,17726.8,426,62283.54
+2025-10-28,Referral,Cold Prospecting,mobile,Australia,39287,7179,33062.84,603,12587.08
+2025-06-20,Meta,Email Blast,mobile,UK,3362,283,1553.56,30,1346.87
+2025-11-08,Email,Brand Search,desktop,Canada,42711,8223,60840.85,1380,180226.88
+2025-08-02,YouTube,Brand Search,desktop,India,15615,2942,13798.45,102,5410.78
+2025-11-22,Organic,Sale Promo,desktop,Australia,27293,2132,4707.92,239,33744.57
+2025-11-04,Referral,Video Awareness,desktop,USA,21649,3655,16842.31,363,50169.99
+2025-06-10,Referral,Cold Prospecting,mobile,Canada,30233,5936,51898.72,1115,164613.5
+2025-08-19,Google,Retargeting,mobile,India,18309,2562,25278.28,109,14165.21
+2025-07-22,Organic,Video Awareness,desktop,UK,48929,8707,50421.38,613,43093.1
+2025-08-23,Email,Email Blast,desktop,Canada,31023,1548,12738.93,28,1730.07
+2025-08-24,YouTube,Video Awareness,desktop,Canada,44027,562,4305.66,51,7484.45
+2025-09-02,Email,Video Awareness,mobile,USA,20895,2567,9845.27,234,23692.52
+2025-09-11,Referral,Email Blast,desktop,India,2223,356,3362.12,27,1215.58
+2025-09-22,Google,Sale Promo,desktop,USA,11511,989,4745.69,181,6853.6
+2025-05-16,Organic,Video Awareness,desktop,India,42054,5223,17069.66,137,15604.71
+2025-10-28,Referral,Brand Search,desktop,Canada,24618,3780,22603.76,509,19933.87
+2025-06-17,Referral,Retargeting,mobile,India,25986,4302,13942.83,439,36489.33
+2025-05-22,Organic,Email Blast,mobile,Australia,49428,9586,85653.08,1527,197746.99
+2025-08-07,Organic,Retargeting,mobile,USA,47435,2781,25746.49,323,18473.82
+2025-06-02,Meta,Video Awareness,desktop,USA,8865,924,5614.46,157,11327.45
+2025-08-08,Referral,Retargeting,mobile,Australia,33646,5360,23487.74,531,73070.9
+2025-10-23,YouTube,Sale Promo,desktop,Canada,17641,886,2362.59,133,7733.76
+2025-08-23,Referral,Email Blast,desktop,USA,22959,539,1423.96,64,4251.68
+2025-06-02,Referral,Retargeting,mobile,UK,45275,3658,19412.71,528,13857.9
+2025-08-28,Google,Video Awareness,desktop,Canada,16486,2857,11437.44,65,2271.47
+2025-06-15,Email,Sale Promo,mobile,USA,11307,1275,11227.3,21,1945.3
+2025-10-30,Referral,Cold Prospecting,mobile,Canada,33068,359,1427.19,33,2696.9
+2025-09-14,Meta,Email Blast,desktop,USA,41495,3468,25386.18,480,63111.48
+2025-10-11,YouTube,Video Awareness,mobile,India,18979,2540,25075.11,335,7199.74
+2025-07-17,Google,Video Awareness,desktop,Australia,46148,5903,54747.65,1161,86328.15
+2025-09-10,Meta,Sale Promo,mobile,Australia,49478,7463,51802.23,1276,129009.93
+2025-11-21,Referral,Retargeting,desktop,UK,35535,3908,28199.09,243,33429.81
+2025-09-14,Organic,Cold Prospecting,mobile,USA,41058,3286,22205.27,445,36138.57
+2025-07-06,Organic,Retargeting,mobile,UK,20017,1964,4802.19,121,9294.75
+2025-09-09,Organic,Cold Prospecting,mobile,Canada,26252,2964,11022.0,198,10788.23
+2025-10-01,Organic,Retargeting,mobile,UK,26388,1429,12566.93,217,20072.24
+2025-05-15,YouTube,Brand Search,mobile,USA,29256,2207,12215.55,284,24785.39
+2025-08-31,Email,Retargeting,desktop,Australia,43389,6586,31102.73,373,33574.84
+2025-07-27,Referral,Video Awareness,desktop,India,24927,708,2752.76,111,11930.68
+2025-11-16,Organic,Email Blast,mobile,USA,10728,1611,4575.63,107,5120.73
+2025-05-18,Google,Email Blast,mobile,Australia,49211,7630,24737.64,171,21954.11
+2025-05-18,Email,Video Awareness,mobile,UK,20838,2025,14785.04,292,31799.2
+2025-06-26,YouTube,Email Blast,desktop,USA,37147,2955,24500.26,571,76305.3
+2025-10-17,YouTube,Video Awareness,mobile,Canada,6250,519,2178.66,57,1165.21
+2025-06-01,Organic,Sale Promo,desktop,USA,34872,6005,26127.33,964,43666.76
+2025-07-21,Organic,Email Blast,mobile,USA,25892,1507,9903.28,171,8679.27
+2025-11-11,Google,Brand Search,desktop,Australia,14219,493,1286.96,43,4007.63
+2025-07-26,Referral,Video Awareness,desktop,Canada,33155,4472,18805.73,665,77762.93
+2025-07-23,Email,Brand Search,desktop,Canada,34627,2690,11393.99,57,6892.74
+2025-06-17,YouTube,Video Awareness,desktop,USA,38230,948,5269.41,42,2237.98
+2025-08-04,YouTube,Retargeting,mobile,Australia,33470,361,1349.75,25,2285.84
+2025-09-16,Organic,Sale Promo,desktop,India,32988,2987,9581.68,110,13397.6
+2025-09-12,Email,Retargeting,desktop,UK,14223,552,5042.03,66,4266.76
+2025-06-15,Organic,Cold Prospecting,mobile,Canada,2631,336,2253.71,9,798.33
+2025-05-17,Organic,Sale Promo,desktop,USA,40796,506,2644.45,30,2827.99
+2025-07-12,Google,Retargeting,desktop,USA,40306,1105,7226.36,89,7851.17
+2025-09-03,Organic,Sale Promo,mobile,India,39976,3422,7056.8,76,9530.99
+2025-11-25,YouTube,Retargeting,desktop,India,20578,1233,10147.48,212,13738.87
+2025-07-06,YouTube,Retargeting,desktop,UK,39988,3957,22061.32,162,21391.43
+2025-08-12,Email,Retargeting,mobile,USA,2347,318,1896.92,43,1741.89
+2025-10-28,Google,Cold Prospecting,mobile,Canada,33243,5940,56222.43,952,49011.58
+2025-10-20,YouTube,Brand Search,desktop,Australia,13429,2494,22485.03,288,37529.2
+2025-07-16,Organic,Cold Prospecting,mobile,Canada,12523,368,3220.29,43,2056.81
+2025-05-26,Google,Retargeting,desktop,USA,690,132,1077.47,13,347.49
+2025-08-17,YouTube,Brand Search,desktop,Australia,20963,2037,4701.67,326,9886.77
+2025-05-12,Meta,Video Awareness,mobile,UK,33999,3936,34586.34,783,113989.12
+2025-10-19,Referral,Sale Promo,desktop,India,44947,5810,32026.4,985,46378.85
+2025-06-10,Organic,Email Blast,desktop,Canada,45175,3740,26008.93,215,24856.05
+2025-07-29,Meta,Email Blast,desktop,India,17698,2830,16428.36,86,12660.91
+2025-11-23,Organic,Email Blast,desktop,Canada,1704,281,1160.94,16,1633.37
+2025-06-08,Referral,Sale Promo,mobile,India,26353,2744,17588.24,111,12466.87
+2025-10-20,Organic,Retargeting,mobile,India,4853,514,3309.21,50,3870.5
+2025-09-12,Organic,Brand Search,mobile,Canada,20785,2047,13529.92,175,26167.76
+2025-06-04,Organic,Sale Promo,mobile,India,31551,459,2879.58,40,4333.29
+2025-06-13,Referral,Retargeting,mobile,USA,48842,4107,10256.89,657,53250.3
+2025-10-11,Organic,Email Blast,desktop,Australia,36640,2191,10602.86,357,38920.8
+2025-08-07,Referral,Video Awareness,desktop,Canada,7727,598,1793.08,109,5597.77
+2025-06-10,YouTube,Brand Search,desktop,UK,17917,3514,21111.36,227,27138.83
+2025-10-11,YouTube,Video Awareness,mobile,India,8275,1024,8794.4,153,15599.92
+2025-08-21,Email,Email Blast,mobile,UK,8548,1541,5886.21,283,15701.61
+2025-10-06,Google,Sale Promo,mobile,USA,37060,2569,17047.55,391,42164.18
+2025-11-12,YouTube,Sale Promo,mobile,Canada,29639,4310,21181.28,678,28304.04
+2025-09-21,YouTube,Cold Prospecting,desktop,Australia,2587,165,718.65,22,1640.61
+2025-05-12,Meta,Email Blast,desktop,Australia,26706,562,1667.2,26,2460.59
+2025-11-26,Referral,Brand Search,desktop,Australia,31534,494,3289.01,97,10526.87
+2025-07-08,YouTube,Retargeting,desktop,Australia,16539,2010,5075.8,76,9469.33
+2025-07-31,Email,Brand Search,desktop,Australia,47274,3248,30635.3,321,6567.39
+2025-08-21,Email,Cold Prospecting,mobile,UK,2975,270,2247.05,48,1046.34
+2025-08-11,Organic,Email Blast,desktop,India,35981,5874,30867.99,302,31992.87
+2025-05-18,Organic,Sale Promo,mobile,USA,44492,4388,33392.71,862,35223.85
+2025-11-22,Email,Brand Search,desktop,Canada,46599,5126,14010.13,692,21107.51
+2025-11-23,Google,Retargeting,desktop,Canada,15039,1572,10057.8,53,5316.47
+2025-08-23,Organic,Video Awareness,desktop,USA,22482,4458,37237.51,842,105377.82
+2025-11-14,Referral,Sale Promo,desktop,UK,19038,3003,9506.02,47,4366.04
+2025-07-06,YouTube,Retargeting,mobile,UK,15211,2034,17371.73,266,37679.12
+2025-07-30,Referral,Email Blast,mobile,USA,45474,4016,36097.96,425,35756.73
+2025-08-25,YouTube,Sale Promo,desktop,India,9650,222,2053.38,3,382.93
+2025-08-14,Google,Retargeting,mobile,Canada,38137,637,5642.79,80,8834.25
+2025-06-03,Referral,Retargeting,mobile,India,49484,2670,25776.03,238,9239.84
+2025-05-11,Google,Video Awareness,mobile,Canada,44945,1389,12698.39,146,18731.69
+2025-10-05,Meta,Retargeting,mobile,Australia,38035,4932,12202.55,366,16116.56
+2025-07-09,Google,Video Awareness,desktop,USA,11682,1643,6647.07,232,17385.2
+2025-06-15,Organic,Brand Search,mobile,Canada,19804,3067,15346.12,443,37535.78
+2025-08-16,Meta,Brand Search,mobile,India,24813,414,890.27,52,1212.57
+2025-07-18,Referral,Email Blast,mobile,USA,22667,1464,13213.84,66,7483.04
+2025-07-29,Meta,Sale Promo,desktop,UK,5387,736,3789.19,114,9077.44
+2025-10-25,Organic,Email Blast,desktop,Canada,2536,382,1574.8,31,907.89
+2025-06-01,Meta,Retargeting,mobile,UK,40414,4649,24532.33,291,36430.45
+2025-09-20,YouTube,Cold Prospecting,mobile,Australia,40160,3652,14968.6,57,8184.1
+2025-06-01,Google,Retargeting,desktop,USA,23954,2265,15167.91,199,22991.88
+2025-09-23,Referral,Cold Prospecting,desktop,UK,10004,865,2047.4,107,13942.05
+2025-05-17,Organic,Brand Search,mobile,Australia,36541,584,2782.6,51,7280.01
+2025-08-09,Referral,Brand Search,mobile,USA,18494,672,4962.62,21,1321.96
+2025-07-22,Email,Sale Promo,mobile,India,22004,4058,38685.76,407,55261.96
+2025-07-14,Email,Video Awareness,mobile,Canada,11897,1895,8806.44,275,33888.89
+2025-06-12,Organic,Retargeting,mobile,USA,41447,6713,32366.15,1110,45047.26
+2025-06-09,YouTube,Video Awareness,desktop,Canada,2484,429,3193.66,81,7039.27
+2025-09-24,Google,Sale Promo,desktop,Australia,17955,386,1640.0,13,1756.28
+2025-08-28,Meta,Email Blast,mobile,USA,17310,646,4350.61,116,4929.15
+2025-08-24,Meta,Video Awareness,mobile,USA,32480,4403,19731.23,817,100229.53
+2025-09-18,Referral,Retargeting,desktop,UK,29613,809,2090.26,23,696.05
+2025-07-12,Email,Retargeting,mobile,Australia,32266,3964,32232.9,437,14010.74
+2025-06-20,Referral,Video Awareness,desktop,Australia,16629,2474,23884.37,261,15613.03
+2025-09-14,Email,Email Blast,desktop,UK,41013,2549,13357.75,270,38631.83
+2025-10-23,Meta,Retargeting,desktop,India,19744,1459,11698.22,286,8271.25
+2025-06-27,Google,Cold Prospecting,desktop,UK,41863,8267,73146.71,151,10521.56
+2025-07-13,Organic,Email Blast,desktop,UK,27145,1738,4962.24,303,25538.48
+2025-06-05,Referral,Cold Prospecting,desktop,UK,39017,2026,19464.73,137,7359.01
+2025-09-02,Organic,Sale Promo,desktop,Canada,13233,2263,22611.02,376,21126.09
+2025-07-29,YouTube,Cold Prospecting,mobile,USA,15159,2958,8821.29,471,36839.57
+2025-06-21,Organic,Brand Search,mobile,Canada,19172,3499,30074.18,540,56714.78
+2025-07-15,Referral,Video Awareness,mobile,USA,19286,975,6361.36,159,8283.06
+2025-06-02,YouTube,Retargeting,desktop,India,7760,325,2716.42,24,636.66
+2025-07-10,Referral,Email Blast,mobile,UK,45876,544,4821.25,23,475.67
+2025-07-08,Email,Retargeting,mobile,Canada,3510,600,3609.58,88,2757.92
+2025-09-17,Organic,Sale Promo,desktop,Australia,36643,3835,29883.78,602,37328.54
+2025-06-20,Referral,Sale Promo,desktop,India,41704,4535,11986.2,437,56484.8
+2025-09-09,Email,Cold Prospecting,desktop,Canada,41368,3765,7921.9,645,46306.66
+2025-09-25,Organic,Cold Prospecting,mobile,USA,38077,5191,28747.53,550,74579.43
+2025-11-13,Google,Brand Search,desktop,Australia,34737,6322,44164.81,923,51274.48
+2025-06-19,Organic,Sale Promo,mobile,India,5147,842,6822.59,138,18897.47
+2025-09-06,YouTube,Sale Promo,desktop,Canada,10036,1094,2798.44,85,7566.91
+2025-11-19,Email,Retargeting,desktop,Canada,45875,6131,29141.77,747,73797.15
+2025-10-27,Referral,Cold Prospecting,desktop,UK,5136,210,994.95,12,1387.32
+2025-06-22,Meta,Retargeting,desktop,India,49511,2585,20912.91,348,14019.57
+2025-06-12,Referral,Cold Prospecting,mobile,Australia,1220,173,487.69,33,1565.83
+2025-10-07,Referral,Email Blast,mobile,USA,32812,3600,13189.17,397,31632.46
+2025-10-23,Google,Video Awareness,desktop,USA,39997,7012,26333.26,643,43914.58
+2025-09-12,Referral,Cold Prospecting,mobile,USA,44521,4428,40099.61,53,5643.39
+2025-11-11,Email,Brand Search,mobile,UK,24406,781,3767.86,106,6093.8
+2025-09-21,Email,Sale Promo,desktop,India,27833,1181,9081.17,33,2544.69
+2025-06-07,Email,Cold Prospecting,mobile,UK,27468,1619,13177.04,267,12760.53
+2025-11-24,Referral,Cold Prospecting,desktop,India,23140,1999,15130.61,282,36567.92
+2025-08-19,Google,Cold Prospecting,desktop,Canada,14938,2929,20272.1,421,27874.27
+2025-05-19,Organic,Email Blast,desktop,Australia,3932,345,3326.92,66,5003.23
+2025-11-03,Meta,Cold Prospecting,mobile,USA,15072,865,5337.61,100,9148.0
+2025-06-28,Email,Retargeting,desktop,Australia,28209,487,988.88,58,6635.6
+2025-07-15,YouTube,Sale Promo,mobile,India,48624,3606,8027.18,561,16462.78
+2025-10-31,Organic,Email Blast,mobile,UK,20682,655,4055.16,19,1750.64
+2025-09-07,Email,Sale Promo,mobile,UK,1799,38,76.97,6,657.93
+2025-08-08,Referral,Email Blast,desktop,Australia,22427,498,1986.07,93,13841.18
+2025-06-23,Organic,Email Blast,desktop,Canada,41859,2389,6084.01,267,8176.11
+2025-11-03,Referral,Sale Promo,desktop,UK,28285,5403,43669.11,666,74284.89
+2025-11-16,Meta,Sale Promo,desktop,Australia,9406,1749,17311.66,206,21578.78
+2025-06-03,Google,Retargeting,desktop,USA,47801,4053,34960.23,153,11187.13
+2025-06-02,Organic,Cold Prospecting,desktop,USA,4881,750,3217.17,42,5683.51
+2025-05-17,Google,Video Awareness,desktop,USA,40018,6667,34194.13,919,114339.43
+2025-07-31,Referral,Video Awareness,mobile,Canada,27163,4771,16188.0,897,46941.81
+2025-11-18,Referral,Cold Prospecting,desktop,UK,6933,128,442.34,24,539.98
+2025-05-18,Organic,Cold Prospecting,mobile,Canada,22216,2572,9515.34,392,32041.89
+2025-06-24,YouTube,Email Blast,mobile,UK,32064,6237,44557.01,362,48775.53
+2025-08-20,Organic,Cold Prospecting,desktop,India,42096,547,2966.93,38,5321.48
+2025-06-21,Google,Email Blast,desktop,India,33492,5998,52120.6,238,8440.71
+2025-06-23,YouTube,Brand Search,desktop,Australia,14113,695,2736.71,61,2651.53
+2025-07-29,Email,Retargeting,mobile,Australia,22165,1795,8586.89,92,8730.5
+2025-07-14,Referral,Sale Promo,mobile,India,12682,1770,5546.8,191,12961.55
+2025-08-24,Referral,Video Awareness,mobile,UK,20516,3343,21824.48,36,2455.79
+2025-11-17,YouTube,Retargeting,desktop,USA,5140,158,1412.98,3,342.28
+2025-06-12,Organic,Cold Prospecting,desktop,UK,9612,917,5872.32,135,12302.41
+2025-07-13,YouTube,Sale Promo,mobile,Australia,22984,666,4356.73,27,1057.7
+2025-09-08,Email,Email Blast,mobile,Australia,38575,5649,38272.53,643,19572.71
+2025-06-30,Email,Cold Prospecting,desktop,Canada,22449,2610,10895.58,458,20429.35
+2025-09-02,Email,Cold Prospecting,mobile,UK,16320,2676,26035.24,213,17801.84
+2025-07-02,Email,Email Blast,desktop,USA,44100,939,2367.27,12,1733.96
+2025-11-22,Referral,Retargeting,desktop,UK,35202,5459,30190.95,980,86516.67
+2025-10-02,Referral,Sale Promo,mobile,UK,30009,5057,28147.34,890,35815.61
+2025-11-21,Organic,Sale Promo,mobile,UK,21144,3210,9010.81,637,34205.13
+2025-09-28,Meta,Sale Promo,mobile,Canada,40520,4669,26766.33,506,20301.88
+2025-08-04,Referral,Brand Search,desktop,UK,662,46,336.39,5,501.75
+2025-11-21,Meta,Email Blast,mobile,USA,26591,4022,19183.95,397,16061.2
+2025-07-05,Meta,Sale Promo,mobile,India,26782,3787,18700.05,514,75891.28
+2025-07-10,Referral,Video Awareness,desktop,India,34273,3212,6982.66,589,60432.41
+2025-09-26,Email,Video Awareness,mobile,Canada,39216,4589,19569.11,529,38438.42
+2025-08-15,Referral,Brand Search,desktop,USA,33429,788,6424.93,150,14123.38
+2025-06-24,Meta,Brand Search,mobile,Australia,14558,1031,6736.51,10,300.73
+2025-06-15,Meta,Email Blast,mobile,Canada,4146,333,948.69,7,754.84
+2025-09-29,Email,Video Awareness,mobile,USA,3445,400,1514.54,76,8930.1
+2025-10-28,Organic,Retargeting,mobile,UK,1824,52,270.26,6,446.96
+2025-11-19,Organic,Cold Prospecting,desktop,India,29128,4673,14556.08,459,26976.49
+2025-07-05,Google,Video Awareness,mobile,Australia,1473,209,662.33,21,2889.98
+2025-11-07,Meta,Cold Prospecting,mobile,Canada,38129,6144,58841.84,342,34871.62
+2025-08-16,Meta,Video Awareness,mobile,UK,9759,501,2046.93,84,11228.91
+2025-11-05,Email,Brand Search,desktop,USA,18981,1526,7130.36,21,629.86
+2025-11-25,Referral,Email Blast,mobile,India,7132,918,7971.14,47,1394.15
+2025-11-03,Email,Sale Promo,desktop,Canada,13005,277,1576.58,52,1638.7
+2025-05-22,Meta,Email Blast,mobile,India,11069,1150,7027.77,19,2580.88
+2025-09-30,Meta,Cold Prospecting,desktop,USA,10457,1616,10867.06,308,7890.26
+2025-09-29,YouTube,Email Blast,desktop,USA,44116,5701,18095.55,256,20555.28
+2025-09-05,Meta,Email Blast,desktop,Australia,6966,1040,7732.13,35,4351.39
+2025-11-26,Email,Email Blast,mobile,USA,6418,1173,4384.98,68,6708.57
+2025-10-09,YouTube,Brand Search,mobile,UK,25981,2844,6137.78,310,29391.41
+2025-05-16,Meta,Cold Prospecting,desktop,Australia,2166,84,431.42,2,78.95
+2025-05-18,Email,Email Blast,mobile,UK,46632,2846,14866.05,561,50055.03
+2025-05-16,YouTube,Sale Promo,desktop,India,27728,756,3309.88,59,2827.26
+2025-10-22,Referral,Retargeting,desktop,Australia,48823,8323,29551.03,1583,110260.34
+2025-11-05,YouTube,Cold Prospecting,desktop,USA,40942,5820,43625.91,474,56325.1
+2025-08-11,Email,Video Awareness,mobile,Australia,3656,381,1143.17,63,6034.16
+2025-06-19,Referral,Cold Prospecting,mobile,UK,8020,1072,5944.5,20,2007.54
+2025-09-14,Email,Retargeting,desktop,UK,29918,3278,29833.02,439,35453.9
+2025-10-20,Email,Video Awareness,desktop,Australia,29544,1965,6097.01,61,1371.25
+2025-06-29,Email,Brand Search,desktop,Australia,29047,5252,44910.89,1043,132185.92
+2025-10-31,YouTube,Sale Promo,mobile,Canada,27505,2145,18574.86,298,35526.79
+2025-05-27,Meta,Brand Search,desktop,USA,31879,5516,30621.46,821,93351.79
+2025-08-31,YouTube,Brand Search,desktop,Australia,23680,1970,17531.07,340,25351.9
+2025-08-13,Referral,Video Awareness,mobile,Canada,7362,1326,5782.08,38,3802.53
+2025-08-23,Organic,Email Blast,desktop,Australia,36688,3493,27434.77,534,67275.6
+2025-07-19,Organic,Video Awareness,desktop,Australia,8876,548,1341.85,31,4443.3
+2025-11-18,Email,Email Blast,desktop,Australia,20743,1983,15128.28,324,39595.65
+2025-10-11,YouTube,Email Blast,desktop,UK,1918,373,1216.99,22,1400.58
+2025-07-02,Google,Sale Promo,desktop,India,18157,1819,6895.95,299,39765.27
+2025-06-19,Google,Cold Prospecting,desktop,Canada,15530,2511,15351.79,207,13377.13
+2025-05-11,YouTube,Retargeting,mobile,Canada,15747,309,2485.92,25,1509.67
+2025-11-20,Organic,Brand Search,desktop,India,29132,2330,18690.85,213,25062.91
+2025-08-23,Meta,Cold Prospecting,desktop,UK,17026,975,2948.13,140,12288.54
+2025-08-29,YouTube,Email Blast,mobile,UK,16633,1475,8718.05,261,27011.22
+2025-05-11,Email,Email Blast,desktop,USA,10515,1253,5218.74,118,10962.7
+2025-06-04,Email,Brand Search,mobile,USA,42850,3699,20979.76,277,36166.41
+2025-10-29,Referral,Cold Prospecting,desktop,UK,9670,735,7116.13,77,4737.17
+2025-07-12,Meta,Email Blast,desktop,India,40069,4951,45448.42,943,125638.35
+2025-08-12,Organic,Cold Prospecting,mobile,UK,18870,1963,15804.73,23,3329.82
+2025-10-09,Organic,Retargeting,desktop,Canada,39136,3871,14976.82,605,36950.76
+2025-10-30,Google,Cold Prospecting,desktop,Australia,31516,4444,24110.61,769,87449.94
+2025-05-31,Google,Brand Search,mobile,Australia,37927,1082,6496.07,64,1692.73
+2025-05-30,Google,Video Awareness,mobile,UK,9963,1245,4193.19,71,9414.94
+2025-10-24,Meta,Retargeting,desktop,India,2383,199,1681.34,5,286.07
+2025-10-24,Google,Video Awareness,desktop,India,13398,2325,16665.31,99,13212.63
+2025-05-25,Google,Video Awareness,mobile,UK,30307,2524,21924.62,89,7323.99
+2025-08-28,Organic,Brand Search,desktop,Canada,10786,956,6888.4,110,7199.16
+2025-08-10,Google,Cold Prospecting,desktop,Australia,40356,616,5793.52,6,278.33
+2025-11-13,Referral,Brand Search,desktop,USA,15954,1999,18814.13,311,16034.99
+2025-08-22,Meta,Retargeting,mobile,USA,46781,4704,11879.9,574,26838.69
+2025-09-28,Organic,Cold Prospecting,desktop,Canada,14445,728,4598.29,50,3767.62
+2025-06-02,Meta,Retargeting,desktop,USA,12730,936,9222.34,56,7758.57
+2025-10-04,Organic,Sale Promo,desktop,Australia,42715,5754,42728.12,828,65779.05
+2025-05-22,Meta,Cold Prospecting,desktop,India,9350,261,2238.9,44,5536.95
+2025-08-13,Organic,Email Blast,desktop,India,9788,361,748.43,38,3189.1
+2025-06-12,Google,Retargeting,desktop,Australia,31876,5651,30633.21,489,30466.19
+2025-10-10,Meta,Cold Prospecting,mobile,Australia,47261,1256,9036.84,170,11710.59
+2025-08-09,Email,Video Awareness,desktop,UK,1401,198,1678.02,34,1080.13
+2025-09-12,Referral,Brand Search,desktop,India,1434,18,39.57,1,31.19
+2025-07-18,Email,Brand Search,mobile,Australia,13423,1620,10150.6,50,4585.44
+2025-06-12,Email,Brand Search,desktop,USA,157,1,5.56,0,0.0
+2025-06-01,Referral,Email Blast,desktop,Canada,28380,4786,16745.68,530,42033.91
+2025-11-23,Referral,Cold Prospecting,desktop,India,7434,1044,2305.77,48,5723.76
+2025-07-16,Meta,Brand Search,mobile,UK,4366,529,2242.03,33,4153.59
+2025-05-24,Google,Email Blast,mobile,Australia,30404,5485,17470.69,516,39418.81
+2025-08-13,Referral,Sale Promo,mobile,India,46548,661,5194.7,19,1598.15
+2025-09-17,Organic,Sale Promo,mobile,Canada,7331,559,4053.23,57,8174.13
+2025-07-18,Referral,Sale Promo,desktop,India,769,21,61.38,1,57.52
+2025-11-17,Google,Sale Promo,desktop,Australia,7311,1295,3462.58,125,3397.99
+2025-09-01,YouTube,Video Awareness,mobile,Canada,26710,2583,17156.03,437,34993.44
+2025-11-26,YouTube,Video Awareness,mobile,UK,40623,5973,13055.71,1060,139294.72
+2025-05-26,Meta,Retargeting,mobile,Canada,36654,2094,6026.57,61,4263.05
+2025-11-20,Organic,Email Blast,mobile,Canada,36498,731,3294.03,42,978.94
+2025-09-15,Email,Cold Prospecting,mobile,UK,34939,6592,16518.91,966,129993.9
+2025-10-09,Google,Video Awareness,mobile,India,35126,5675,39760.48,643,59601.78
+2025-06-20,YouTube,Retargeting,desktop,Canada,1400,111,1096.77,12,1137.45
+2025-06-24,Google,Sale Promo,desktop,UK,38104,2542,21583.6,324,8738.35
+2025-11-26,Email,Video Awareness,mobile,USA,8597,1283,3876.63,40,800.63
+2025-11-07,Organic,Brand Search,desktop,India,6121,690,2044.19,81,7586.16
+2025-10-14,Meta,Sale Promo,mobile,Australia,11180,1053,8071.57,39,3676.97
+2025-09-07,Referral,Email Blast,mobile,USA,11588,1013,6169.62,30,1716.32
+2025-11-06,Meta,Cold Prospecting,mobile,UK,32508,5291,24682.21,469,50986.32
+2025-11-19,Referral,Sale Promo,desktop,Australia,33683,2121,7585.6,397,57804.69
+2025-07-30,Meta,Video Awareness,mobile,UK,36920,3419,10219.64,580,86278.28
+2025-06-05,YouTube,Retargeting,desktop,Australia,30892,5517,44305.57,397,25706.3
+2025-08-22,Google,Brand Search,mobile,USA,38177,4932,33325.1,176,24913.41
+2025-07-17,Organic,Video Awareness,mobile,Canada,49428,2698,21199.89,150,16900.75
+2025-10-19,Referral,Brand Search,mobile,Canada,13483,315,1359.1,45,1883.22
+2025-06-04,Email,Retargeting,desktop,Canada,46041,2507,14630.93,302,17394.42
+2025-05-21,Referral,Email Blast,mobile,UK,23995,4297,32647.23,143,9214.5
+2025-11-25,Meta,Brand Search,desktop,USA,5240,391,1611.35,45,1469.77
+2025-09-22,YouTube,Retargeting,desktop,USA,18465,3472,21669.98,390,42051.57
+2025-05-25,Email,Retargeting,desktop,UK,25474,3357,13185.15,566,21125.95
+2025-10-31,Organic,Brand Search,mobile,India,43167,5713,42252.12,943,43086.57
+2025-11-10,Google,Email Blast,mobile,USA,461,35,254.37,6,166.0
+2025-07-26,Referral,Sale Promo,mobile,UK,3516,693,6736.05,127,15593.74
+2025-11-14,Email,Cold Prospecting,mobile,USA,48765,2576,24603.8,29,2675.4
+2025-07-22,Organic,Retargeting,desktop,India,33096,3342,33311.95,347,39904.4
+2025-09-18,Meta,Sale Promo,desktop,India,26696,2480,18802.55,198,6278.84
+2025-08-27,Organic,Brand Search,mobile,Canada,29754,3200,16337.62,329,24728.17
+2025-07-19,Referral,Retargeting,desktop,Australia,46007,2816,18755.86,163,18374.54
+2025-11-16,Referral,Retargeting,mobile,Canada,32606,1226,11904.06,181,3923.82
+2025-06-26,Google,Brand Search,desktop,Australia,36761,4513,32086.74,825,100807.28
+2025-07-10,Meta,Retargeting,mobile,Canada,30115,2799,8946.06,446,32620.41
+2025-09-07,Email,Cold Prospecting,mobile,Canada,16290,1628,12770.18,187,19027.31
+2025-06-28,Meta,Video Awareness,mobile,UK,6537,936,8511.9,64,3173.91
+2025-10-26,YouTube,Brand Search,mobile,Australia,10327,1153,7822.44,212,5974.67
+2025-10-10,Email,Cold Prospecting,desktop,Canada,38912,5227,28762.01,957,59265.25
+2025-06-14,Google,Video Awareness,mobile,USA,42552,4489,14362.31,891,128337.62
+2025-10-08,YouTube,Retargeting,mobile,USA,31802,977,7136.73,39,2680.74
+2025-07-02,Google,Cold Prospecting,mobile,Australia,18563,1650,13616.19,221,12551.78
+2025-06-25,Organic,Cold Prospecting,mobile,UK,4303,457,4372.53,59,7634.78
+2025-07-13,Organic,Retargeting,mobile,Canada,40814,921,4232.94,19,2150.17
+2025-11-19,Meta,Sale Promo,mobile,India,10192,1784,5670.41,279,14485.19
+2025-05-29,Email,Cold Prospecting,mobile,USA,19264,1905,7637.49,211,23274.67
+2025-06-23,Google,Cold Prospecting,desktop,India,34356,5431,31956.58,618,45029.06
+2025-11-01,Email,Email Blast,desktop,UK,46681,8690,81084.15,469,11832.63
+2025-07-31,Organic,Brand Search,mobile,USA,4863,195,1673.59,22,777.55
+2025-08-31,YouTube,Email Blast,desktop,India,4224,583,4474.85,73,8303.26
+2025-08-03,Meta,Retargeting,mobile,Australia,20051,1731,9454.55,66,9755.27
+2025-08-21,YouTube,Sale Promo,mobile,UK,22220,3160,12653.62,501,44937.41
+2025-11-20,Organic,Email Blast,mobile,UK,46482,5545,21317.55,748,97798.73
+2025-11-22,Organic,Brand Search,desktop,Australia,8288,676,2099.06,123,11121.35
+2025-06-12,Email,Video Awareness,desktop,Australia,34756,875,5040.92,32,1706.01
+2025-05-31,Email,Video Awareness,desktop,USA,20610,2210,15156.7,370,41886.93
+2025-08-30,Referral,Cold Prospecting,mobile,Australia,7383,712,3754.8,86,10079.92
+2025-08-15,Meta,Video Awareness,mobile,India,21665,2722,25884.28,441,24360.94
+2025-06-02,Email,Video Awareness,mobile,UK,16250,309,2743.66,40,3620.1
+2025-09-28,YouTube,Cold Prospecting,mobile,Australia,43628,6537,21690.49,200,25895.36
+2025-07-06,Meta,Sale Promo,mobile,USA,17336,3134,31216.12,282,18412.78
+2025-07-20,Email,Video Awareness,desktop,India,20390,1218,7266.29,234,14086.16
+2025-06-27,Email,Video Awareness,mobile,UK,4192,771,2796.76,142,18814.47
+2025-10-08,Meta,Email Blast,desktop,India,10621,1489,3445.98,257,12900.4
+2025-11-15,Meta,Brand Search,desktop,India,5517,343,3348.64,40,5850.95
+2025-06-26,YouTube,Cold Prospecting,mobile,India,23674,3168,30650.86,76,3736.93
+2025-06-11,Organic,Sale Promo,desktop,USA,39657,6971,55406.46,1346,86646.76
+2025-07-22,Meta,Sale Promo,desktop,India,12384,123,485.02,9,1020.84
+2025-09-20,Google,Video Awareness,mobile,UK,3651,418,3630.71,20,2138.55
+2025-08-08,Google,Email Blast,mobile,USA,13324,1625,12290.11,90,9451.37
+2025-08-10,YouTube,Email Blast,desktop,USA,14093,1331,12441.18,207,25135.36
+2025-11-14,Meta,Sale Promo,mobile,USA,1085,114,1038.97,12,674.14
+2025-09-12,Referral,Brand Search,mobile,UK,8921,644,6364.75,30,4459.18
+2025-10-15,Meta,Video Awareness,mobile,USA,6075,349,883.09,15,1186.57
+2025-06-27,Google,Brand Search,mobile,Australia,35414,5062,19808.77,368,7905.56
+2025-06-18,Google,Video Awareness,mobile,USA,40593,2479,13908.14,347,16646.33
+2025-08-26,Organic,Sale Promo,desktop,UK,13205,1504,10418.56,60,7759.82
+2025-09-08,Google,Retargeting,desktop,UK,2042,126,843.73,20,1812.14
+2025-08-07,YouTube,Retargeting,mobile,India,6036,607,1590.98,8,995.5
+2025-10-10,Google,Brand Search,mobile,Canada,16126,2390,15652.26,144,6409.75
+2025-09-19,Google,Video Awareness,mobile,UK,35500,4021,8329.19,112,16663.08
+2025-06-21,Email,Cold Prospecting,mobile,UK,38540,976,4401.11,73,8292.16
+2025-07-13,Referral,Brand Search,desktop,UK,2640,274,1191.85,17,1690.36
+2025-07-27,Meta,Sale Promo,mobile,India,26363,843,5773.13,64,9521.26
+2025-10-25,Organic,Sale Promo,desktop,USA,15643,2589,17105.32,483,65076.23
+2025-07-10,Referral,Retargeting,mobile,USA,25627,4003,27227.63,318,34118.42
+2025-07-01,YouTube,Retargeting,desktop,Canada,45639,1433,8747.56,50,4078.58
+2025-10-05,YouTube,Cold Prospecting,desktop,USA,45695,570,2838.82,54,3515.19
+2025-05-22,Meta,Retargeting,mobile,USA,31953,944,4011.94,131,16895.69
+2025-11-09,Email,Video Awareness,mobile,India,38375,2936,24336.38,368,15566.58
+2025-07-13,YouTube,Sale Promo,desktop,UK,15045,714,2159.16,140,7961.52
+2025-09-15,Organic,Cold Prospecting,desktop,USA,5568,857,3880.86,68,7510.5
+2025-08-04,Organic,Video Awareness,mobile,Australia,38902,6590,24964.48,1145,131756.85
+2025-09-03,Google,Cold Prospecting,mobile,India,26112,3212,20196.21,87,9614.62
+2025-07-02,YouTube,Retargeting,desktop,Australia,32874,4929,15958.03,164,10459.73
+2025-05-28,Meta,Sale Promo,mobile,USA,35098,4807,35130.88,513,53069.8
+2025-10-25,Email,Brand Search,mobile,USA,27354,3694,20787.04,518,20408.46
+2025-11-17,Meta,Cold Prospecting,desktop,India,14917,1815,8560.73,297,25849.62
+2025-07-06,Email,Retargeting,mobile,UK,37395,6183,61714.63,683,72601.52
+2025-09-11,Referral,Cold Prospecting,mobile,India,16637,911,4289.64,171,19258.55
+2025-10-06,Organic,Cold Prospecting,mobile,USA,2007,211,1107.61,21,964.67
+2025-07-03,Organic,Cold Prospecting,desktop,Canada,49878,8551,34828.36,1071,47838.11
+2025-07-18,Google,Brand Search,desktop,USA,3853,177,823.74,7,493.5
+2025-08-17,Google,Video Awareness,mobile,India,24670,3475,19959.48,467,18119.59
+2025-07-01,Referral,Brand Search,mobile,India,36679,574,2633.81,79,10142.59
+2025-09-11,Google,Sale Promo,desktop,India,48003,4157,30475.95,684,31391.34
+2025-11-01,Organic,Video Awareness,desktop,Australia,3769,653,4581.13,52,1572.22
+2025-10-07,Referral,Brand Search,mobile,Canada,39280,7606,40249.19,805,47235.56
+2025-07-24,YouTube,Video Awareness,desktop,Australia,42188,5129,37648.59,830,97626.35
+2025-05-26,Google,Brand Search,mobile,USA,28675,2712,20130.8,455,49403.57
+2025-08-07,Referral,Sale Promo,mobile,India,14080,884,6740.97,152,17436.95
+2025-05-25,Meta,Sale Promo,desktop,USA,44191,8828,52720.12,326,33635.77
+2025-05-18,Referral,Cold Prospecting,desktop,India,42163,7098,19257.27,1226,150482.27
+2025-07-29,YouTube,Email Blast,mobile,USA,28146,1484,3870.54,42,2695.7
+2025-06-09,YouTube,Sale Promo,desktop,India,43693,2837,20374.23,136,2866.55
+2025-08-15,Email,Sale Promo,desktop,UK,33446,3254,10911.59,102,12270.17
+2025-11-13,YouTube,Sale Promo,mobile,USA,21063,1516,5383.45,60,2837.61
+2025-06-14,Organic,Cold Prospecting,mobile,Australia,40322,4583,42794.42,529,49672.0
+2025-08-12,Google,Sale Promo,mobile,Canada,42692,3649,9899.35,544,49235.12
+2025-07-03,Google,Cold Prospecting,mobile,Canada,26742,2514,23438.21,246,24241.41
+2025-06-04,Organic,Sale Promo,desktop,Canada,18845,1126,11060.79,53,4009.14
+2025-05-28,Google,Brand Search,mobile,Canada,18579,3133,14931.85,47,3915.17
+2025-10-22,Referral,Brand Search,mobile,Canada,49255,9240,76637.04,1647,194280.01
+2025-10-21,YouTube,Brand Search,mobile,USA,46739,4622,35166.79,742,27536.19
+2025-07-10,Google,Email Blast,mobile,India,34451,4491,16490.55,321,16213.85
+2025-06-05,Referral,Cold Prospecting,desktop,Australia,32330,424,3398.88,16,1693.12
+2025-10-21,Google,Brand Search,mobile,UK,14042,1644,12758.38,90,10023.09
+2025-06-30,Referral,Video Awareness,desktop,India,17192,2412,21308.1,291,20006.86
+2025-11-10,Referral,Retargeting,mobile,India,8231,205,1306.79,30,2834.52
+2025-11-07,Meta,Cold Prospecting,desktop,Australia,672,39,298.15,2,298.42
+2025-09-03,Email,Retargeting,desktop,USA,12722,576,1280.15,27,612.86
+2025-09-21,Organic,Email Blast,desktop,Canada,31296,6065,36112.34,1079,62991.99
+2025-10-20,Google,Cold Prospecting,desktop,Australia,10027,1319,5334.57,58,3494.87
+2025-11-20,Meta,Retargeting,mobile,USA,21115,1228,9682.97,112,8522.96
+2025-08-25,Referral,Cold Prospecting,mobile,India,41658,2322,21281.1,145,15396.2
+2025-08-20,Google,Email Blast,desktop,UK,45397,2454,6357.77,393,22811.82
+2025-10-28,Google,Sale Promo,desktop,Canada,6205,429,1767.59,84,7253.26
+2025-09-29,Organic,Email Blast,mobile,USA,49493,6509,18572.06,1270,171769.27
+2025-05-18,YouTube,Brand Search,desktop,USA,1140,84,525.82,3,310.78
+2025-10-06,Email,Brand Search,mobile,USA,47067,4160,19658.65,665,45262.21
+2025-07-15,YouTube,Retargeting,mobile,Canada,36816,5169,46175.43,996,50104.75
+2025-09-17,Email,Cold Prospecting,mobile,USA,46022,4941,27547.73,53,2033.82
+2025-09-09,YouTube,Retargeting,desktop,UK,31016,2232,18211.6,143,18777.18
+2025-10-29,YouTube,Sale Promo,mobile,UK,32802,4376,28494.76,737,89494.72
+2025-08-28,Google,Email Blast,mobile,UK,12695,1847,7701.65,168,21614.74
+2025-06-06,Email,Brand Search,desktop,Australia,31440,5601,17171.38,952,32321.76
+2025-09-02,Referral,Retargeting,mobile,UK,3466,56,449.56,3,412.26
+2025-06-20,Meta,Video Awareness,mobile,Australia,44167,7318,45085.18,927,124722.74
+2025-11-09,Google,Sale Promo,desktop,Australia,41392,3905,18707.56,751,20175.44
+2025-07-10,Email,Brand Search,mobile,Australia,27129,5090,24205.96,184,26994.46
+2025-06-09,Referral,Brand Search,desktop,Australia,7763,1359,10537.47,119,14087.39
+2025-10-21,Organic,Cold Prospecting,mobile,USA,32218,5268,49384.9,430,20214.68
+2025-10-17,Meta,Sale Promo,mobile,USA,1881,190,1124.69,20,1055.83
+2025-06-03,Meta,Brand Search,desktop,Canada,49394,7663,41031.06,607,14561.54
+2025-11-21,Meta,Brand Search,desktop,Australia,3245,191,604.78,26,3117.96
+2025-09-30,Meta,Video Awareness,desktop,India,10182,298,2774.99,43,4902.97
+2025-07-01,Google,Brand Search,mobile,UK,15925,1815,8239.21,340,28253.53
+2025-07-23,YouTube,Cold Prospecting,mobile,Australia,42609,4900,44682.27,319,18365.92
+2025-08-14,Meta,Retargeting,mobile,UK,38063,6714,17754.37,654,92149.44
+2025-07-29,Google,Brand Search,desktop,Canada,3676,606,4988.64,26,1967.75
+2025-08-15,Email,Sale Promo,desktop,India,27245,5109,11551.66,549,53842.66
+2025-06-05,YouTube,Retargeting,desktop,Canada,17545,1696,4024.0,92,9685.69
+2025-07-21,Referral,Sale Promo,mobile,Canada,11841,427,3335.34,49,2326.29
+2025-06-11,Referral,Sale Promo,desktop,Canada,46478,8435,17408.65,1373,181961.09
+2025-10-04,YouTube,Video Awareness,desktop,India,985,49,271.88,1,100.54
+2025-05-20,Google,Video Awareness,mobile,India,27787,2520,16157.03,141,7328.21
+2025-11-05,Google,Retargeting,desktop,India,43885,3347,17973.39,119,9439.07
+2025-06-08,Email,Retargeting,mobile,UK,506,65,284.92,0,0.0
+2025-11-08,Organic,Sale Promo,mobile,USA,23472,1356,9806.88,214,8539.57
+2025-06-17,Referral,Cold Prospecting,desktop,USA,12701,1279,11288.22,76,1925.75
+2025-10-03,Organic,Sale Promo,desktop,Australia,39111,2549,21969.59,260,31602.81
+2025-07-06,Organic,Brand Search,mobile,Australia,10735,1878,8133.66,202,16809.97
+2025-10-23,Referral,Sale Promo,desktop,Australia,2558,55,231.01,9,271.49
+2025-09-15,YouTube,Video Awareness,mobile,UK,4555,114,601.3,5,122.29
+2025-07-03,Organic,Email Blast,mobile,Canada,10655,1755,8210.45,87,10004.9
+2025-11-02,Meta,Retargeting,desktop,Canada,7767,1072,5862.71,37,2408.43
+2025-11-08,Referral,Retargeting,mobile,Australia,33445,4437,24276.95,753,23916.39
+2025-07-18,Organic,Email Blast,mobile,Canada,11423,865,6609.88,163,8642.41
+2025-05-21,Email,Email Blast,mobile,USA,26857,4910,25967.03,300,32061.92
+2025-08-16,Referral,Sale Promo,mobile,USA,49012,882,2370.44,36,2067.57
+2025-10-31,YouTube,Cold Prospecting,mobile,Australia,4935,951,7300.27,60,3666.8
+2025-10-26,Google,Cold Prospecting,mobile,USA,9728,992,4912.59,57,2084.33
+2025-07-18,Google,Cold Prospecting,mobile,India,35557,6822,17754.21,562,83117.25
+2025-07-03,Google,Retargeting,mobile,Australia,44858,512,4591.03,54,3855.68
+2025-10-01,YouTube,Brand Search,mobile,India,41457,4814,11891.67,278,20238.7
+2025-06-07,YouTube,Retargeting,desktop,India,23248,1539,14196.18,91,13258.1
+2025-09-25,Organic,Video Awareness,desktop,Australia,27439,2221,11652.26,195,22335.62
+2025-11-05,Email,Retargeting,mobile,UK,22033,3245,12721.67,300,41839.82
+2025-11-10,Email,Retargeting,desktop,Australia,39308,2686,13914.91,285,24550.28
+2025-06-15,Google,Brand Search,mobile,UK,13896,2687,15220.1,307,34329.96
+2025-06-29,Organic,Retargeting,desktop,UK,39321,2807,22077.91,214,16638.83
+2025-06-21,Meta,Retargeting,mobile,Canada,21428,460,4041.04,39,5523.35
+2025-06-05,Meta,Sale Promo,desktop,India,35960,2271,18064.47,328,42967.39
+2025-11-05,Email,Retargeting,desktop,USA,44325,7121,40815.55,1249,87111.93
+2025-08-04,YouTube,Video Awareness,mobile,Australia,4955,216,1492.05,13,385.64
+2025-10-03,Meta,Cold Prospecting,mobile,USA,735,117,241.12,8,774.32
+2025-08-09,YouTube,Video Awareness,mobile,Canada,36252,5016,32112.08,649,80860.19
+2025-07-15,Email,Cold Prospecting,mobile,India,48813,5110,18780.73,581,28523.27
+2025-09-23,Meta,Sale Promo,desktop,Canada,14010,2635,23930.25,390,47255.54
+2025-11-22,Meta,Cold Prospecting,mobile,USA,24659,3061,21253.18,546,67919.07
+2025-10-20,Meta,Brand Search,desktop,USA,24164,2720,7174.25,114,14937.47
+2025-07-12,YouTube,Retargeting,desktop,Canada,9377,660,6238.13,66,6787.26
+2025-06-26,Organic,Brand Search,mobile,UK,46514,6213,13331.51,265,29915.65
+2025-08-02,Email,Video Awareness,mobile,UK,47070,5771,20827.64,315,32163.99
+2025-11-06,YouTube,Brand Search,mobile,USA,4565,676,5629.98,47,6360.54
+2025-10-22,Organic,Sale Promo,desktop,USA,34110,4748,26866.34,350,36706.02
+2025-10-15,YouTube,Video Awareness,desktop,USA,197,24,145.5,2,194.6
+2025-05-14,Email,Email Blast,desktop,Australia,4549,364,1737.45,53,2208.91
+2025-08-31,Email,Retargeting,mobile,Australia,33249,5986,52925.45,933,126192.07
+2025-07-07,Google,Brand Search,mobile,India,49906,2273,4822.54,245,10042.71
+2025-08-13,Meta,Video Awareness,mobile,Australia,17388,332,2952.45,44,1680.95
+2025-11-08,Organic,Brand Search,desktop,UK,47748,997,2750.72,98,4052.22
+2025-08-10,Organic,Cold Prospecting,mobile,Canada,46813,7334,21299.83,294,30911.06
+2025-06-20,Meta,Email Blast,mobile,USA,10749,462,2601.0,85,5876.36
+2025-06-11,YouTube,Brand Search,mobile,India,37037,1610,11826.8,59,7931.07
+2025-09-15,Meta,Email Blast,desktop,Canada,42102,4204,34960.3,111,7737.28
+2025-08-13,YouTube,Sale Promo,desktop,India,33614,4741,33466.71,942,75669.93
+2025-11-18,Organic,Video Awareness,mobile,Australia,44296,3694,20751.95,368,41398.39
+2025-06-04,Google,Cold Prospecting,desktop,Australia,46071,7833,55109.55,103,2876.86
+2025-10-26,Meta,Email Blast,desktop,USA,11624,878,5769.74,158,7089.8
+2025-07-28,Meta,Email Blast,desktop,UK,11109,1769,14554.45,296,12125.96
+2025-08-09,Google,Retargeting,desktop,Canada,22915,4507,15400.41,722,42078.37
+2025-11-12,Email,Retargeting,mobile,Australia,8792,588,2629.35,19,1437.75
+2025-07-24,YouTube,Video Awareness,desktop,Canada,9406,1679,6089.05,30,3498.1
+2025-08-12,Email,Video Awareness,mobile,Australia,3728,388,2270.45,73,7217.48
+2025-07-08,Email,Brand Search,mobile,India,17025,1767,5957.73,320,38763.93
+2025-11-08,Referral,Email Blast,desktop,Canada,4052,53,488.39,2,55.02
+2025-08-13,Referral,Sale Promo,desktop,USA,44231,2059,19871.19,266,27941.75
+2025-09-15,Google,Email Blast,mobile,USA,43784,3311,10408.41,575,66336.22
+2025-08-05,YouTube,Video Awareness,desktop,UK,1965,359,3274.24,44,4668.13
+2025-08-07,Email,Email Blast,mobile,Australia,21547,231,504.69,33,2023.33
+2025-09-22,Google,Video Awareness,mobile,USA,7754,511,1511.43,42,3765.42
+2025-10-09,Organic,Sale Promo,mobile,USA,37170,5357,14138.91,621,60688.91
+2025-09-20,Organic,Email Blast,desktop,India,41685,3629,34173.11,708,68832.55
+2025-07-07,Google,Email Blast,mobile,Australia,38950,5591,41599.27,931,124662.72
+2025-09-22,Referral,Cold Prospecting,desktop,Australia,8467,1547,9380.29,234,34600.34
+2025-07-27,Referral,Cold Prospecting,mobile,India,40146,3387,12491.09,323,31574.95
+2025-10-12,Email,Cold Prospecting,desktop,USA,10609,1190,5977.64,221,26156.82
+2025-11-20,Organic,Sale Promo,mobile,Canada,7868,859,2849.28,19,2392.13
+2025-09-28,Referral,Cold Prospecting,mobile,USA,46347,1847,9098.86,248,19000.99
+2025-06-29,Organic,Email Blast,mobile,India,48287,4104,20426.32,342,7953.66
+2025-07-27,Email,Sale Promo,desktop,India,15217,1987,17624.12,135,11423.38
+2025-05-16,Email,Retargeting,mobile,Australia,42472,3139,19330.37,402,22440.7
+2025-11-23,Referral,Sale Promo,mobile,India,3641,341,2971.5,23,1051.51
+2025-11-22,Referral,Email Blast,desktop,USA,109,19,60.09,0,0.0
+2025-09-05,Google,Brand Search,mobile,UK,134,12,24.12,1,107.07
+2025-09-09,Meta,Sale Promo,mobile,USA,3883,238,628.92,34,3860.56
+2025-05-13,YouTube,Brand Search,desktop,Canada,31748,3135,31230.03,330,7630.56
+2025-05-12,YouTube,Retargeting,mobile,USA,11109,918,2434.17,126,4690.09
+2025-09-28,Email,Video Awareness,desktop,India,46966,8126,16709.05,1551,121071.18
+2025-07-14,Referral,Brand Search,desktop,Canada,25635,339,2011.74,13,806.52
+2025-08-27,Referral,Cold Prospecting,mobile,Australia,48371,5883,19287.85,812,89022.23
+2025-11-05,Email,Brand Search,desktop,India,42903,2865,12566.63,328,44538.86
+2025-10-05,Email,Email Blast,desktop,Australia,16327,1477,10703.7,285,39053.39
+2025-09-13,YouTube,Sale Promo,desktop,Australia,15626,2817,21536.23,370,17975.9
+2025-09-21,Referral,Retargeting,desktop,USA,18689,2631,9196.17,327,40052.35
+2025-09-06,Meta,Sale Promo,desktop,Canada,11538,1516,13555.48,179,20362.9
+2025-07-11,Google,Brand Search,desktop,USA,25643,2228,21239.96,398,42381.94
+2025-07-18,Google,Cold Prospecting,desktop,USA,39113,6508,25871.9,1226,101207.86
+2025-08-04,Google,Retargeting,desktop,USA,7801,626,2463.14,48,6666.37
+2025-07-10,Email,Retargeting,desktop,Canada,38181,764,2603.57,147,16122.9
+2025-07-08,Meta,Brand Search,mobile,Australia,24946,2890,8993.74,296,21907.24
+2025-05-14,YouTube,Retargeting,desktop,USA,20649,1295,4828.69,151,4793.71
+2025-06-23,Organic,Cold Prospecting,mobile,USA,14499,2093,10892.45,398,58084.61
+2025-09-05,Organic,Email Blast,desktop,UK,15154,259,784.74,24,2150.04
+2025-07-16,Referral,Email Blast,desktop,UK,12850,2010,6780.15,252,14417.33
+2025-11-26,Email,Email Blast,desktop,USA,15402,2977,21226.3,508,16125.62
+2025-06-18,Meta,Cold Prospecting,mobile,USA,42713,4053,19071.17,319,22266.23
+2025-06-10,Organic,Brand Search,mobile,Australia,45062,6188,38521.69,1218,144001.98
+2025-07-12,Email,Retargeting,mobile,Australia,3960,391,3899.24,37,5476.64
+2025-07-25,Google,Sale Promo,mobile,UK,32848,3412,31938.47,551,18891.49
+2025-08-28,YouTube,Cold Prospecting,desktop,Canada,11580,797,7933.56,110,2681.1
+2025-09-23,Google,Sale Promo,desktop,India,27103,1796,5288.36,207,13367.22
+2025-07-29,YouTube,Retargeting,desktop,USA,48114,601,5828.8,108,12106.41
+2025-09-24,Email,Email Blast,mobile,UK,8695,634,4065.99,40,3505.75
+2025-05-12,Referral,Brand Search,mobile,Australia,30772,2305,7952.97,109,2722.1
+2025-09-15,Meta,Brand Search,mobile,India,35549,3643,34678.85,119,10422.42
+2025-05-25,Meta,Cold Prospecting,mobile,India,4851,76,220.97,6,737.18
+2025-11-11,Referral,Sale Promo,desktop,USA,32344,6442,46224.81,1275,125982.94
+2025-07-21,Google,Cold Prospecting,mobile,USA,27106,2149,9404.95,128,14611.96
+2025-09-08,Meta,Video Awareness,desktop,UK,36891,683,4203.77,96,11543.93
+2025-08-21,Email,Video Awareness,desktop,Australia,9244,1550,5859.14,199,6023.24
+2025-06-08,Email,Cold Prospecting,desktop,India,30503,334,987.6,58,2473.05
+2025-11-08,Meta,Video Awareness,mobile,USA,17872,457,3649.96,63,3618.96
+2025-06-07,Google,Sale Promo,mobile,USA,19949,1008,2949.4,177,3728.47
+2025-07-07,Google,Email Blast,mobile,India,29438,381,1256.67,29,2223.58
+2025-06-10,Organic,Sale Promo,mobile,Australia,40401,4128,38656.74,298,31348.29
+2025-09-20,YouTube,Retargeting,desktop,Australia,14112,1147,9720.26,154,18525.25
+2025-07-26,Google,Video Awareness,desktop,USA,9938,458,2029.39,62,6940.09
+2025-11-10,Google,Email Blast,desktop,Canada,17723,272,822.49,10,1270.19
+2025-06-23,Google,Retargeting,mobile,India,41672,1962,16231.69,91,6936.29
+2025-07-08,Referral,Video Awareness,mobile,Australia,8710,289,773.1,34,4037.08
+2025-10-27,Meta,Cold Prospecting,desktop,Canada,28457,430,3541.4,40,1800.24
+2025-08-24,Meta,Retargeting,mobile,UK,22226,2505,16864.61,383,23680.14
+2025-11-16,Referral,Email Blast,mobile,India,44335,2277,18934.5,354,10232.86
+2025-08-08,Email,Cold Prospecting,mobile,USA,12364,2161,11331.94,126,13208.5
+2025-11-10,Organic,Retargeting,desktop,Australia,4575,87,174.79,4,272.74
+2025-10-19,Google,Cold Prospecting,desktop,UK,28914,4340,39608.56,191,27382.91
+2025-05-12,Organic,Video Awareness,desktop,Australia,281,37,248.15,0,0.0
+2025-07-07,Meta,Email Blast,desktop,Australia,25370,825,2896.64,146,5370.16
+2025-08-14,Meta,Video Awareness,mobile,Canada,43456,5764,43554.78,1121,153443.86
+2025-08-01,Organic,Brand Search,mobile,Australia,37077,6016,54149.81,377,43699.09
+2025-09-22,Google,Cold Prospecting,mobile,Australia,25325,4014,30371.28,175,24880.36
+2025-08-09,Organic,Retargeting,desktop,Canada,12620,1026,10182.39,173,3662.16
+2025-07-15,Google,Retargeting,desktop,Australia,40978,6925,28907.47,152,19237.46
+2025-05-18,Referral,Video Awareness,desktop,Canada,31572,3720,15413.45,417,40774.83
+2025-08-11,Meta,Video Awareness,desktop,Australia,16493,1446,6011.38,182,7762.15
+2025-09-24,Google,Video Awareness,desktop,UK,314,38,253.51,4,435.45
+2025-07-28,YouTube,Email Blast,mobile,USA,17947,2747,25412.72,528,23926.89
+2025-10-06,Google,Cold Prospecting,desktop,Australia,43137,1103,3321.82,111,10234.48
+2025-08-03,Email,Sale Promo,mobile,USA,40158,656,2841.31,105,10486.06
+2025-08-01,Email,Brand Search,mobile,UK,4265,221,1690.43,21,2635.89
+2025-09-27,YouTube,Cold Prospecting,mobile,UK,27890,3847,12063.78,135,9134.71
+2025-05-30,Meta,Brand Search,mobile,India,46573,7873,63500.04,1361,202972.33
+2025-06-09,Organic,Email Blast,desktop,UK,40586,2907,27560.86,496,15664.49
+2025-07-12,Organic,Retargeting,desktop,Australia,27583,2300,21907.44,248,34243.14
+2025-05-26,Google,Email Blast,mobile,Canada,37174,4983,31305.59,430,44025.35
+2025-10-09,Referral,Video Awareness,desktop,Australia,31607,5246,12551.17,541,58980.31
+2025-11-13,Meta,Cold Prospecting,desktop,India,23829,3525,32334.99,510,21196.71
+2025-10-24,YouTube,Brand Search,mobile,Australia,39269,6647,31092.25,986,49509.49
+2025-08-26,Email,Retargeting,desktop,UK,43202,4762,11075.79,447,57684.77
+2025-07-22,Meta,Sale Promo,mobile,UK,28914,1769,7240.87,340,16127.75
+2025-09-24,Meta,Cold Prospecting,mobile,USA,26744,2952,18137.34,45,6398.35
+2025-09-23,YouTube,Retargeting,desktop,India,25356,2437,8821.0,292,33682.2
+2025-07-19,Meta,Retargeting,desktop,Canada,16789,1412,13883.47,109,6165.33
+2025-08-13,Meta,Cold Prospecting,mobile,India,36213,3603,8743.21,531,36518.37
+2025-05-26,Organic,Video Awareness,desktop,UK,34513,3055,13249.11,591,40122.4
+2025-11-19,Meta,Brand Search,desktop,UK,3680,203,410.06,37,3018.8
+2025-07-21,Organic,Cold Prospecting,mobile,India,25604,3861,37407.55,737,16869.34
+2025-11-26,Referral,Email Blast,desktop,Australia,1510,212,767.25,15,1020.64
+2025-06-24,Google,Sale Promo,desktop,Australia,23246,4081,12844.13,277,28862.09
+2025-10-30,Referral,Sale Promo,mobile,India,34026,3565,13686.66,330,12486.91
+2025-08-28,Email,Email Blast,mobile,UK,10117,269,1091.96,26,1084.48
+2025-10-03,Meta,Cold Prospecting,mobile,USA,16720,1457,9007.03,170,25494.78
+2025-07-10,Organic,Email Blast,desktop,USA,27262,3456,22075.18,553,39350.12
+2025-11-11,Email,Sale Promo,mobile,India,21854,2615,10338.42,518,52395.39
+2025-09-08,Meta,Retargeting,desktop,UK,45226,3825,22973.01,409,45448.06
+2025-08-07,Meta,Brand Search,mobile,UK,5615,776,5839.62,85,9380.53
+2025-07-18,Organic,Video Awareness,desktop,USA,15260,2209,5843.49,370,10940.74
+2025-09-15,Google,Video Awareness,desktop,Canada,29592,4761,22526.3,101,4949.99
+2025-09-14,Google,Video Awareness,desktop,Canada,27612,4332,29747.7,577,66124.88
+2025-05-22,Google,Sale Promo,desktop,Canada,12106,592,2568.24,32,866.97
+2025-06-23,YouTube,Retargeting,mobile,India,1216,221,749.38,17,2098.52
+2025-10-12,Google,Brand Search,desktop,Australia,43103,3183,7901.18,364,8840.31
+2025-07-24,YouTube,Video Awareness,mobile,UK,18916,3343,11937.44,354,44065.11
+2025-06-09,Organic,Sale Promo,desktop,UK,45004,6458,61540.41,123,13256.48
+2025-08-22,Organic,Email Blast,mobile,India,9979,1714,9695.68,252,11668.4
+2025-06-09,Organic,Sale Promo,mobile,USA,13181,888,3585.64,65,7730.07
+2025-11-21,Google,Retargeting,desktop,Australia,28801,409,2277.36,31,4182.01
+2025-09-07,YouTube,Sale Promo,desktop,USA,4239,803,6000.03,28,2338.44
+2025-11-11,Email,Brand Search,mobile,UK,11617,216,1578.66,10,1462.12
+2025-05-17,Meta,Email Blast,desktop,Australia,27197,5200,31466.7,955,76834.61
+2025-06-03,Organic,Cold Prospecting,desktop,Canada,38307,701,5137.09,133,8399.77
+2025-09-17,Email,Retargeting,mobile,Australia,28924,1879,8480.08,59,7396.63
+2025-11-08,Referral,Email Blast,mobile,Australia,28150,2695,8473.29,95,10953.55
